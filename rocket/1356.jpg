@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" /><meta name="publishid" content="11155370.0.1002.0"/>
+<meta name="nodeid" content="0"/>
+<meta name="nodename" content="" />
+
+<meta name="publishid" content="" />
+<meta name="nodeid" content="0" />
+<meta name="nodename" content="" />
+<!--<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta content="telephone=no" name="format-detection">-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="renderer" content="webkit" />
+<script src="/gate/big5/www.xinhuanet.com/global/js/pageCore.js"></script>
+<script src="/gate/big5/www.xinhuanet.com/global/js/pageCore.js"></script>
+<title>澳門中聯辦 - 中央人民政府駐澳門特別行政區聯絡辦公室</title>
+<meta name="description" content="  " />
+<link rel="stylesheet" href="http://big5.zlb.gov.cn/2018/css/common.css" />
+<link rel="stylesheet" href="http://big5.zlb.gov.cn/2018/css/swiper2.7.6.css" />
+<script type="text/javascript" src="http://big5.zlb.gov.cn/2018/js/jquery1.12.4.min.js"></script>
+<script src="http://big5.zlb.gov.cn/2018/js/swiper2.7.6.min.js"></script>
+<style>
+a:hover { color: #df2e22 !important; }
+/*頭部*/
+.content { width: 1200px; height: auto; margin: 0 auto; overflow: hidden; }
+.banner { width: 100%; height: 182px; background: url(http://www.zlb.gov.cn/20191015newhome/images/banner.jpg) 50% 0; min-width: 1200px }
+.nav_box { width: 100%; height: 50px; background: #df2e22; min-width: 1200px }
+.date { float: right; width: 270px; font-size: 14px; color: #fff; margin: 10px 35px 0 0; }
+.serch_box { float: left; width: 215px; height: 28px; position: absolute; top: 195px; left: 720px; }
+.serch_box .text01 { float: left; width: 163px; height: 23px; border-radius: 5px; outline: none; border: 1px solid #a0a0a0; padding: 0 10px; }
+.serch_box .text02 { float: left; width: 19px; height: 19px; background: url(http://www.zlb.gov.cn/20191129mac/images/search.png) no-repeat; outline: none; border: none; margin-left: 10px; cursor: pointer; }
+.email_box { float: left; width: 72px; height: 21px; position: absolute; top: 195px; right: 110px; }
+.email_box p { float: left; font-size: 16px; color: #fff; }
+.email_box p a { color: #fff; }
+.email_box p a:hover { color: #fff !important; }
+.email_box img { float: left; width: 29px; height: 21px; margin-left: 8px; }
+.wenzi01 { float: right; margin-top: 10px; }
+.nav_list { list-style: none; }
+.nav_list li { float: left; width: 150px; height: 50px; font-size: 18px; color: #fff; line-height: 50px; text-align: center; position: relative; /*padding-left: 30px;*/ margin-left: 17px; }
+.nav_list li:after { content: ""; width: 1px; height: 30px; border-right: 1px solid #d26869; position: absolute; right: 0; top: 10px; }
+.nav_list li:last-child:after { border: none; }
+.nav_list li:hover { background: #9a211b; }
+.nav_list li:hover:after { border: none; }
+.nav_list li a { color: #fff; }
+.nav_list li a:hover { color: #fff !important; }
+/*.nav_list li.i01:before { content: ""; width: 27px; height: 27px; background: url(http://www.zlb.gov.cn/20191015newhome/images/i01.png) no-repeat; position: absolute; left: 20px; top: 10px; }
+.nav_list li.i02:before { content: ""; width: 27px; height: 26px; background: url(http://www.zlb.gov.cn/20191015newhome/images/i02.png) no-repeat; position: absolute; left: 20px; top: 11px; }
+.nav_list li.i03:before { content: ""; width: 29px; height: 28px; background: url(http://www.zlb.gov.cn/20191015newhome/images/i03.png) no-repeat; position: absolute; left: 20px; top: 10px; }
+.nav_list li.i04:before { content: ""; width: 27px; height: 27px; background: url(http://www.zlb.gov.cn/20191015newhome/images/i04.png) no-repeat; position: absolute; left: 20px; top: 10px; }
+.nav_list li.i05:before { content: ""; width: 24px; height: 21px; background: url(http://www.zlb.gov.cn/20191015newhome/images/i05.png) no-repeat; position: absolute; left: 20px; top: 15px; }
+.nav_list li.i06:before { content: ""; width: 25px; height: 25px; background: url(http://www.zlb.gov.cn/20191015newhome/images/i06.png) no-repeat; position: absolute; left: 20px; top: 13px; }
+.nav_list li.i07:before { content: ""; width: 17px; height: 24px; background: url(http://www.zlb.gov.cn/20191015newhome/images/i07.png) no-repeat; position: absolute; left: 20px; top: 13px; }*/
+/*END*/
+/*footer*/
+.footer { width: 100%; height: 140px; background: url(http://www.zlb.gov.cn/20191015newhome/images/footer_bg.jpg) repeat; min-width: 1200px }
+.footer ul { margin: 0 auto; text-align: center; width: 790px; padding-top: 45px; }
+.footer ul li { font-size: 14px; color: #404040; height: 24px; line-height: 24px; }
+.footer ul li a { color: #404040; }
+/*END*/
+/*聚焦圖*/
+.jj_box { float: left; width: 690px; height: 460px; margin-top: 30px; }
+.focusBox3 { width: 690px; height: 460px; position: relative; }
+.focusBox3 .arrow-left { background: url(http://www.xinhuanet.com/global/img/iconBtn/arrows.png) no-repeat left top; position: absolute; left: 10px; top: 50%; margin-top: -15px; width: 17px; height: 30px; z-index: 2 }
+.focusBox3 .arrow-right { background: url(http://www.xinhuanet.com/global/img/iconBtn/arrows.png) no-repeat left bottom; position: absolute; right: 10px; top: 50%; margin-top: -15px; width: 17px; height: 30px; z-index: 2 }
+.focusBox3 .swiper-container { width: 690px; height: 460px; }
+.swiper-slide { position: relative; }
+.focusBox3 .swiper-container.swiper-wrapper .swiper-slide img { width: 690px; height: 460px; }
+.focusBox3 .swiper-container .swiper-wrapper .swiper-slide .bg { position: absolute; left: 0; bottom: 0; width: 100%; height: 111px; background: url(http://www.zlb.gov.cn/20191015newhome/images/jj_bg.png) repeat-x; z-index: 0 }
+.focusBox3 .swiper-container .swiper-wrapper .swiper-slide .title { position: absolute; left: 2%; bottom: 0; width: 96%; height: 40px; line-height: 40px; font-size: 18px; color: #fff; text-align: center; overflow: hidden; z-index: 1; }
+.focusBox3 .swiper-container .swiper-wrapper .swiper-slide .title a { color: #fff; }
+.focusBox3 .pagination { position: absolute; right: 10px; text-align: right; bottom: 5px; width: 20%; z-index: 2; }
+.swiper-pagination-switch { display: inline-block; width: 10px; height: 10px; border-radius: 10px; background: #b9b9b9; margin: 0 3px; cursor: pointer; }
+.swiper-active-switch { background: #e82315; }
+/*END*/
+/*聚焦區*/
+.jjq_box { float: right; width: 475px; height: 460px; margin-top: 30px; }
+.jjq_nr { width: 475px; height: 435px; overflow: hidden; }
+.jjq_nr h2 { font-size: 26px; color: #df2e22; line-height: 32px; }
+.jjq_nr h2 a { color: #df2e22; }
+.jjq_nr p { font-size: 14px; color: #959595; line-height: 26px; margin-top: 26px; border-bottom: 1px dashed #d9d9d9; padding-bottom: 25px; }
+.jjq_nr p span { font-size: 14px; color: #df2e22; }
+.jjq_nr p span a { color: #df2e22; }
+.jj_list { overflow: hidden; margin-top: 25px; }
+.jj_list li { font-size: 18px; color: #2f2f2f; position: relative; padding-left: 15px; line-height: 34px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; height: 30px; }
+.jj_list li a { color: #2f2f2f; }
+.jj_list li + li { margin-top: 15px; }
+.jj_list li:before { content: ""; width: 6px; height: 6px; background: #f1dccb; border-radius: 25px; position: absolute; top: 15px; left: 0; }
+.jj_more { font-size: 14px; color: #838383; text-align: right; margin-top: 8px; }
+.jj_more a { color: #838383; }
+/*END*/
+.ad_box { width: 1200px; height: auto; overflow: hidden; margin-top: 24px; }
+/*中央聲音&我辦動態*/
+.zywb_box { width: 576px; height: 236px; overflow: hidden; margin-top: 30px; }
+.tab1 { width: 576px; position: relative; }
+.tab1 .tab_menu { width: 100%; float: left; z-index: 1; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+.tab1 .tab_menu li { float: left; width: auto; height: 30px; font-size: 20px; color: #3c3c3c; cursor: pointer; text-align: center; font-weight: bold; }
+.tab1 .tab_menu li + li { margin-left: 18px; padding-left: 18px; }
+.tab1 .tab_menu li a { color: #3c3c3c; }
+.tab1 .tab_menu li:last-child { border-left: 1px solid #ccc; }
+.tab1 .tab_menu .selected { color: #df2e22; cursor: pointer; }
+.tab1 .tab_menu .selected a { color: #df2e22; }
+.tab1 .tab_box { width: 576px; height: 178px; margin-top: 17px; }
+.tab1 .hide { display: none; }
+.zywb_left { float: left; width: 213px; height: auto; position: relative; }
+.zywb_left p { font-size: 14px; color: #666; margin-top: 10px; line-height: 20px; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.zywb_left p a { color: #666; }
+.zywb_list { float: right; width: 346px; }
+.zywb_list li { height: 21px; font-size: 16px; color: #404040; position: relative; padding-left: 15px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.zywb_list li a { color: #404040; }
+.zywb_list li + li { margin-top: 18px; }
+.zywb_list li:before { content: ""; width: 6px; height: 6px; background: #f1dccb; border-radius: 25px; position: absolute; top: 8px; left: 0; }
+.more { font-size: 14px; color: #838383; position: absolute; top: 10px; right: 0; z-index: 5; }
+.more a { color: #838383; }
+/*END*/
+/*粵港澳大灣區&澳門熱點&形勢政策*/
+.gardzc_box { width: 576px; height: 236px; overflow: hidden; margin-top: 30px; }
+.tab2 { width: 576px; position: relative; }
+.tab2 .tab_menu2 { width: 100%; float: left; z-index: 1; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+.tab2 .tab_menu2 li { float: left; width: auto; height: 30px; font-size: 20px; color: #3c3c3c; cursor: pointer; text-align: center; font-weight: bold; }
+.tab2 .tab_menu2 li + li { margin-left: 18px; padding-left: 18px; }
+.tab2 .tab_menu2 li a { color: #3c3c3c; }
+.tab2 .tab_menu2 li:nth-child(2) { border-left: 1px solid #ccc; }
+.tab2 .tab_menu2 li:last-child { border-left: 1px solid #ccc; }
+.tab2 .tab_menu2 .selected { color: #df2e22; cursor: pointer; }
+.tab2 .tab_menu2 .selected a { color: #df2e22; }
+.tab2 .tab_box2 { width: 576px; height: 178px; margin-top: 17px; }
+.tab2 .hide { display: none; }
+.gardzc_list { width: auto; }
+.gardzc_list li { height: 21px; font-size: 16px; color: #404040; position: relative; padding-left: 15px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.gardzc_list li a { color: #404040; }
+.gardzc_list li + li { margin-top: 18px; }
+.gardzc_list li:before { content: ""; width: 6px; height: 6px; background: #f1dccb; border-radius: 25px; position: absolute; top: 8px; left: 0; }
+/*END*/
+/*憲法*/
+.xf_box { width: 100%; height: 92px; background: #ebdec5; margin-top: 45px; }
+.xf_list { list-style: none; }
+.xf_list li { float: left; width: 186px; height: 77px; margin: 7px 0 0 8px; }
+.xf_list li:nth-child(5) { margin: 7px 0 0 35px; }
+/*END*/
+/*視頻*/
+.sp_box { width: 576px; height: 236px; overflow: hidden; margin-top: 35px; position: relative; }
+.sp_box .tab_menu { width: 100%; float: left; z-index: 1; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+.sp_box .tab_menu li { float: left; width: auto; height: 30px; font-size: 20px; color: #3c3c3c; cursor: pointer; text-align: center; font-weight: bold; }
+.sp_box .tab_menu li a { color: #3c3c3c; }
+.sp_list { width: 100%; height: auto; margin-top: 17px; list-style: none; }
+.sp_list li { float: left; width: 280px; height: 167px; position: relative; }
+.sp_list li + li { margin-left: 16px; }
+.sp_list li img { width: 280px; height: 167px; }
+.sp_list li .bg { position: absolute; left: 0; bottom: 0; width: 100%; height: 35px; opacity: 0.6; background: #000; z-index: 0 }
+.sp_list li .title { position: absolute; left: 2%; bottom: 0; width: 96%; height: 35px; font-size: 16px; text-align: center; line-height: 35px; color: #fff; overflow: hidden; z-index: 1; text-overflow: ellipsis; white-space: nowrap; }
+.sp_list li .title a { color: #fff; }
+.sp_list li span img { width: 57px; height: 57px; position: absolute; top: 40px; left: 114px; z-index: 15; }
+/*END*/
+/*青年交流&媒體評論*/
+.qnmt_box { width: 576px; height: 236px; overflow: hidden; margin-top: 35px; }
+.tab3 { width: 576px; position: relative; }
+.tab3 .tab_menu3 { width: 100%; float: left; z-index: 1; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+.tab3 .tab_menu3 li { float: left; width: auto; height: 30px; font-size: 20px; color: #3c3c3c; cursor: pointer; text-align: center; font-weight: bold; }
+.tab3 .tab_menu3 li + li { margin-left: 18px; padding-left: 18px; }
+.tab3 .tab_menu3 li a { color: #3c3c3c; }
+.tab3 .tab_menu3 li:nth-child(2) { border-left: 1px solid #ccc; }
+.tab3 .tab_menu3 li:last-child { border-left: 1px solid #ccc; }
+.tab3 .tab_menu3 .selected { color: #df2e22; cursor: pointer; }
+.tab3 .tab_menu3 .selected a { color: #df2e22; }
+.tab3 .tab_box3 { width: 576px; height: 178px; margin-top: 17px; }
+.tab3 .hide { display: none; }
+.qnmt_left { float: left; width: 213px; height: auto; position: relative; }
+.qnmt_left p { font-size: 14px; color: #666; margin-top: 10px; line-height: 20px; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.qnmt_left p a { color: #666; }
+.qnmt_list { float: right; width: 346px; }
+.qnmt_list li { height: 21px; font-size: 16px; color: #404040; position: relative; padding-left: 15px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.qnmt_list li a { color: #404040; }
+.qnmt_list li + li { margin-top: 18px; }
+.qnmt_list li:before { content: ""; width: 6px; height: 6px; background: #f1dccb; border-radius: 25px; position: absolute; top: 8px; left: 0; }
+/*END*/
+/*多彩澳門*/
+.dcam_box { width: 100%; height: auto; margin-top: 45px; overflow: hidden; position: relative; }
+.dcam_box .tab_menu { width: 100%; float: left; z-index: 1; border-bottom: 2px solid #de0000; padding-bottom: 10px; }
+.dcam_box .tab_menu li { float: left; width: auto; height: 30px; font-size: 20px; color: #dc0000; cursor: pointer; text-align: center; font-weight: bold; }
+.dcam_box .tab_menu li a { color: #dc0000; }
+.dcam_box .tab_menu li a span { color: #946133; }
+.dcam_list { width: 100%; height: 407px; margin-top: 17px; list-style: none; }
+.dcam_list li { float: left; width: 300px; height: auto; }
+.dcam_list li .img { width: 300px; height: 203px; }
+.dcam_list li .img img { width: 300px; height: 203px; }
+.dcam_list li .text { width: 250px; height: 203px; overflow: hidden; padding: 0 25px; background: #a81248; background: -moz-linear-gradient(-45deg, #a81248 0%, #52136b 100%); background: -webkit-linear-gradient(-45deg, #a81248 0%, #52136b 100%); background: linear-gradient(135deg, #a81248 0%, #52136b 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a81248', endColorstr='#52136b', GradientType=1 );
+}
+.dcam_list li .yellow { background: #ca9b38; background: -moz-linear-gradient(-45deg, #ca9b38 0%, #9b631f 100%); background: -webkit-linear-gradient(-45deg, #ca9b38 0%, #9b631f 100%); background: linear-gradient(135deg, #ca9b38 0%, #9b631f 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ca9b38', endColorstr='#9b631f', GradientType=1 );
+}
+.dcam_list li .text p { font-size: 18px; color: #fff; line-height: 32px; padding-top: 38px; }
+.dcam_list li .text p a { color: #fff; }
+.line { width: 35px; height: 3px; background: #ffe811; margin-top: 24px; }
+/*END*/
+/*友情鏈結*/
+.yqlj_box { width: 100%; height: 530px; background: url(http://www.zlb.gov.cn/20191015newhome/images/yqlj_bg.jpg) no-repeat 50% 0; min-width: 1200px }
+.yqlj_dh { width: 100%; height: 25px; background: url(http://www.zlb.gov.cn/20191015newhome/images/yqlj_dh.png) no-repeat 50% 8px; margin-top: 90px; }
+.yqlj_dh p { font-size: 20px; color: #dc0000; text-align: center; font-weight: bold; }
+.yqlj_dh p span { color: #946133; }
+.tab4 { width: 1100px; position: relative; margin: 0 auto; margin-top: 64px; }
+.tab4 .tab_menu4 { width: 100%; float: left; z-index: 1; }
+.tab4 .tab_menu4 li { float: left; width: 203px; height: 32px; font-size: 14px; color: #333; line-height: 32px; cursor: pointer; text-align: center; font-weight: bold; background: #f3b76f; }
+.tab4 .tab_menu4 li + li { margin-left: 21px; }
+.tab4 .tab_menu4 li i { width: 6px; height: 12px; background: url(http://www.zlb.gov.cn/20191015newhome/images/yqlj_p01.png) no-repeat; display: inline-block; margin-left: 20px; }
+.tab4 .tab_menu4 .selected { color: #fff; background: #f26158; cursor: pointer; }
+.tab4 .tab_menu4 .selected i { background: url(http://www.zlb.gov.cn/20191015newhome/images/yqlj_p02.png) no-repeat; }
+.tab4 .tab_box4 { width: 1100px; height: 185px; margin-top: 17px; overflow: scroll; overflow-x: hidden; }
+.tab4 .hide { display: none; }
+.yqlj_text { width: 1010px; margin: 0 auto; margin-top: 10px; font-size: 14px; color: #333; }
+.yqlj_text span { font-size: 14px; color: #333; margin: 5px 10px; display: inline-block; }
+.yqlj_text a { font-size: 14px; color: #333; }
+/*END*/
+/*二維碼*/
+.ewm_box { width: 80px; height: auto; overflow: hidden; position: fixed; top: 280px; right: 50%; margin-right: -750px; z-index: 99; }
+.ewm_box .img { width: 70px; height: 70px; background: #fff2df; padding: 5px; border-radius: 5px; }
+.ewm_box p { font-size: 14px; color: #944b11; padding-top: 5px; text-align: center; }
+/*END*/
+/*返回top*/
+.backtop { width: 80px; height: 80px; cursor: pointer; overflow: hidden; position: fixed; top: 425px; right: 50%; margin-right: -750px; z-index: 99; display: none; }
+/*END*/
+</style>
+<script type="text/javascript">
+var userAgent = navigator.userAgent.toLowerCase(),l=window.location;
+var platform;
+if (userAgent == null || userAgent == '' || (l.href.indexOf('f=pad') != -1)) {
+    platform = 'web'
+} else {
+   if (userAgent.match(/iphone/i)||userAgent.match( /iphone os/i)||userAgent.match( /android/i)||userAgent.match(/windows mobile/i)||userAgent.match( /ucweb/i)){
+		location.href = "phone.htm";
+    } else if (userAgent.indexOf('gecko') > -1 && userAgent.indexOf( 'khtml') == -1 && userAgent.indexOf('firefox' ) == -1 && userAgent.indexOf( '11.0') == -1){
+        location.href = "phone.htm";
+    }
+}
+</script>
+</head>
+<body>
+<!--頭部-->
+<div class="banner">
+<div class="content" style="position:relative; overflow:inherit;">
+<div class="date"><span id="date"></span>&nbsp;<span id="todate"></span></div>
+<script> 
+/*時間*/
+function calendar_index(){var enabled = 0;var today = new Date();var day;var date;var centry="";if(today.getDay()==0) day="星期日";if(today.getDay()==1) day="星期一";if(today.getDay()==2) day="星期二";if(today.getDay()==3) day="星期三";if(today.getDay()==4) day="星期四";if(today.getDay()==5) day="星期五";if(today.getDay()==6) day="星期六";if(today.getFullYear()<2000) centry = "19";date1=centry+(today.getFullYear())+"年"+(today.getMonth()+1)+"月"+today.getDate()+"日  ";date2=""+day;$("#date").html(date1+date2);var CalendarData=new Array(100);var madd=new Array(12);var tgString="甲乙丙丁戊己庚辛壬癸";var dzString="子丑寅卯辰巳午未申酉戌亥";var numString="一二三四五六七八九十";var monString="正二三四五六七八九十冬臘";var weekString="日一二三四五六";var sx="鼠牛虎兔龍蛇馬羊猴雞狗豬";var cYear,cMonth,cDay,TheDate;CalendarData = new Array(0xA4B,0x5164B,0x6A5,0x6D4,0x415B5,0x2B6,0x957,0x2092F,0x497,0x60C96,0xD4A,0xEA5,0x50DA9,0x5AD,0x2B6,0x3126E, 0x92E,0x7192D,0xC95,0xD4A,0x61B4A,0xB55,0x56A,0x4155B, 0x25D,0x92D,0x2192B,0xA95,0x71695,0x6CA,0xB55,0x50AB5,0x4DA,0xA5B,0x30A57,0x52B,0x8152A,0xE95,0x6AA,0x615AA,0xAB5,0x4B6,0x414AE,0xA57,0x526,0x31D26,0xD95,0x70B55,0x56A,0x96D,0x5095D,0x4AD,0xA4D,0x41A4D,0xD25,0x81AA5, 0xB54,0xB6A,0x612DA,0x95B,0x49B,0x41497,0xA4B,0xA164B, 0x6A5,0x6D4,0x615B4,0xAB6,0x957,0x5092F,0x497,0x64B, 0x30D4A,0xEA5,0x80D65,0x5AC,0xAB6,0x5126D,0x92E,0xC96,0x41A95,0xD4A,0xDA5,0x20B55,0x56A,0x7155B,0x25D,0x92D,0x5192B,0xA95,0xB4A,0x416AA,0xAD5,0x90AB5,0x4BA,0xA5B, 0x60A57,0x52B,0xA93,0x40E95);madd[0]=0;madd[1]=31;madd[2]=59;madd[3]=90;madd[4]=120;madd[5]=151;madd[6]=181;madd[7]=212;madd[8]=243;madd[9]=273;madd[10]=304;madd[11]=334; function GetBit(m,n) {  return (m>>n)&1; };function e2c(){ TheDate= (arguments.length!=3) ? new Date() : new Date(arguments[0],arguments[1],arguments[2]); var total,m,n,k;var isEnd=false;var tmp=TheDate.getFullYear();total=(tmp-1921)*365+Math.floor((tmp-1921)/4)+madd[TheDate.getMonth()]+TheDate.getDate()-38;if (TheDate.getYear()%4==0&&TheDate.getMonth()>1) { total++;}for(m=0;;m++){k=(CalendarData[m]<0xfff)?11:12;for(n=k;n>=0;n--){if(total<=29+GetBit(CalendarData[m],n)){isEnd=true; break;}total=total-29-GetBit(CalendarData[m],n);}if(isEnd) break;}cYear=1921 + m; cMonth=k-n+1; cDay=total;if(k==12) {if(cMonth==Math.floor(CalendarData[m]/0x10000)+1) { cMonth=1-cMonth; }if(cMonth>Math.floor(CalendarData[m]/0x10000)+1){ cMonth--; } }};function GetcDateString(){ var tmp="";tmp+=tgString.charAt((cYear-4)%10); tmp+=dzString.charAt((cYear-4)%12);tmp+="年 "; if(cMonth<1) { tmp+="(閏)"; tmp+=monString.charAt(-cMonth-1); } else {tmp+=monString.charAt(cMonth-1);}tmp+="月";tmp+=(cDay<11)?"初":((cDay<20)?"十":((cDay<30)?"廿":"三十")); if (cDay%10!=0||cDay==10) { tmp+=numString.charAt((cDay-1)%10); }return tmp;};function GetLunarDay(solarYear,solarMonth,solarDay){ if (solarYear<1921 || solarYear>2020){return "";} else {solarMonth = (parseInt(solarMonth)>0) ? (solarMonth-1) : 11;e2c(solarYear,solarMonth,solarDay); return GetcDateString();}};var D=new Date();var yy=D.getFullYear();var mm=D.getMonth()+1;var dd=D.getDate();var ww=D.getDay();var ss=parseInt(D.getTime() / 1000); $("#todate").html(GetLunarDay(yy,mm,dd));};
+calendar_index(); 
+</script>
+<div class="clearfix"></div>
+<!--搜索-->
+<div class="serch_box">
+<input name="input" type="text" class="text01" id="sw" onKeyDown="KeyDown();" placeholder="搜索" />
+<input type="button" value="" class="text02" onclick="searchsearch()" />
+</div>
+<form action="http://big5.zlb.gov.cn/was5/web/search@UTF-8" method="GET" id="zlb" target="_blank">
+<input type="hidden" name="channelid" value="256821" />
+<input type="hidden" name="searchword" id="searchword" />
+</form>
+<!--郵箱-->
+<div class="email_box">
+<p> <a href="https://mail.zlb.gov.cn/" target="_blank">郵箱</a> </p>
+<a href="https://mail.zlb.gov.cn/" target="_blank"><img src="http://big5.zlb.gov.cn/20191129mac/images/email.png" width="29" height="21" /></a> 
+</div>
+</div>
+</div>
+<div class="nav_box">
+<div class="content">
+<div class="nav_ftz">
+<fjtignoreurl>
+<script type="text/javascript">
+var ftzw = "tp://big5.zlb.gov.cn/gate/big5/www.zlb.gov.cn/index.htm";
+var jtzw = "tp://www.zlb.gov.cn/index.htm";
+var currUrl = document.URL;
+var flag = currUrl.indexOf("gate/big5");
+if(flag<0)
+document.write('<a href="ht'+ftzw+'" class="wenzi01" target="_blank"><img src="http://www.zlb.gov.cn/20191015newhome/images/top_ftz.png" width="31" height="31" /></a>');
+else
+document.write('<a href="ht'+jtzw+'" class="wenzi01" target="_blank"><img src="http://www.zlb.gov.cn/20191015newhome/images/top_jtz.png" width="31" height="31" /></a>');
+</script> 
+</fjtignoreurl>
+</div>
+<ul class="nav_list">
+<li class="i01"> <a href="http://big5.zlb.gov.cn/index.htm" target="_blank">首&nbsp;&nbsp;頁</a> </li>
+<li class="i03"> <a href="http://big5.zlb.gov.cn/jgzn.htm" target="_blank">機構職能</a> </li>
+<li class="i06"> <a href="http://big5.zlb.gov.cn/fwzn.htm" target="_blank">服務指南</a> </li>
+<li class="i07"> <a href="http://big5.zlb.gov.cn/textlist.htm?page=zt" target="_blank">專&nbsp;&nbsp;題</a> </li>
+</ul>
+</div>
+</div>
+<!--end-->
+<div class="content">
+<!--聚焦圖-->
+<div class="jj_box">
+<div class="device focusBox3">
+<!-- 左右箭頭 --> 
+<a class="arrow-left" href="#"></a> <a class="arrow-right" href="#"></a>
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<a href="http://big5.zlb.gov.cn/2020-01/22/c_1210449629.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/121044/1210449629_1579698722583_title0h.jpg" width="690" height="460" border="0" alt="中央政府駐澳門聯絡辦公室舉辦澳門科技界人士春茗座談活動" /></a>               
+<div class="title">              <a href="http://big5.zlb.gov.cn/2020-01/22/c_1210449629.htm" target="_blank">中央政府駐澳門聯絡辦公室舉辦澳門科技界人士春茗座談活動</a>            </div>
+<div class="bg"></div>
+</div>
+<div class="swiper-slide">
+<a href="http://big5.zlb.gov.cn/2020-01/17/c_1210442845.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112547/1125475664_1579259232462_title0h.jpg" width="690" height="460" border="0" alt="中央政府駐澳門聯絡辦公室舉行2020年新春酒會" /></a>               
+<div class="title">              <a href="http://big5.zlb.gov.cn/2020-01/17/c_1210442845.htm" target="_blank">中央政府駐澳門聯絡辦公室舉行2020年新春酒會</a>            </div>
+<div class="bg"></div>
+</div>
+<div class="swiper-slide">
+<a href="http://big5.zlb.gov.cn/2020-01/17/c_1210443063.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/121044/1210443063_1579274927747_title0h.jpg" width="690" height="460" border="0" alt="中央駐澳機構負責人與澳門特區行政長官賀一誠和特區政府主要官員春茗" /></a>               
+<div class="title">              <a href="http://big5.zlb.gov.cn/2020-01/17/c_1210443063.htm" target="_blank">中央駐澳機構負責人與澳門特區行政長官賀一誠和特區政府主要官員春茗</a>            </div>
+<div class="bg"></div>
+</div>
+<div class="swiper-slide">
+<a href="http://big5.zlb.gov.cn/2020-01/14/c_1210438771.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/121043/1210438771_1579005938362_title0h.jpg" width="690" height="460" border="0" alt="張榮順走訪澳門鏡湖慈善會" /></a>               
+<div class="title">              <a href="http://big5.zlb.gov.cn/2020-01/14/c_1210438771.htm" target="_blank">張榮順走訪澳門鏡湖慈善會</a>            </div>
+<div class="bg"></div>
+</div>
+<div class="swiper-slide">
+<a href="http://big5.zlb.gov.cn/2020-01/14/c_1210438775.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/121043/1210438775_1579006008066_title0h.jpg" width="690" height="460" border="0" alt="澳門航空北京大興國際機場首航團赴京參訪" /></a>               
+<div class="title">              <a href="http://big5.zlb.gov.cn/2020-01/14/c_1210438775.htm" target="_blank">澳門航空北京大興國際機場首航團赴京參訪</a>            </div>
+<div class="bg"></div>
+</div>
+<div class="swiper-slide">
+<a href="http://big5.zlb.gov.cn/2020-01/09/c_1210432188.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/121043/1210432188_1578576529060_title0h.jpg" width="690" height="460" border="0" alt="傅自應出席澳門工聯總會慶祝成立70週年暨第35屆理監事就職聯歡晚會" /></a>               
+<div class="title">              <a href="http://big5.zlb.gov.cn/2020-01/09/c_1210432188.htm" target="_blank">傅自應出席澳門工聯總會慶祝成立70週年暨第35屆理監事就職聯歡晚會</a>            </div>
+<div class="bg"></div>
+</div> 
+</div>
+</div>
+<!-- 分頁 -->
+<div class="pagination"></div>
+</div>
+</div>
+<!--end--> 
+<!--聚焦區-->
+<div class="jjq_box">
+<div class="jjq_nr">
+<h2><a href="http://big5.zlb.gov.cn/2020-01/17/c_1210442845.htm" target="_blank">中央政府駐澳門聯絡辦公室舉行2020年新春酒會</a> <a href="http://big5.zlb.gov.cn/2020-01/17/c_1210442382.htm" target="_blank">傅自應致辭全文</a></h2>
+<p>1月17日下午，中央政府駐澳門聯絡辦公室在澳門旅遊塔會展中心舉行2020年新春酒會，中央政府駐澳門聯絡辦公室主任傅自應和副主任張榮順、姚堅率機關全體幹部員工向澳門同胞致以新春祝福。<span>        <a href="http://big5.zlb.gov.cn/2020-01/17/c_1210442845.htm" target="_blank">[詳情]</a>        </span></p> 
+<ul class="jj_list">
+<li>          <a href="http://big5.zlb.gov.cn/2020-01/22/c_1210449629.htm" target="_blank">中央政府駐澳門聯絡辦公室舉辦澳門科技界人士春茗座談活動</a>        </li>
+<li>          <a href="http://big5.zlb.gov.cn/2020-01/22/c_1210449889.htm" target="_blank">張榮順與澳門宗教界代表人士春茗</a>        </li>
+<li>          <a href="http://big5.zlb.gov.cn/2020-01/14/c_1210438775.htm" target="_blank">澳門航空北京大興國際機場首航團赴京參訪</a>        </li>
+<li>          <a href="http://big5.zlb.gov.cn/2019-12/18/c_1210401146.htm" target="_blank">“星槎萬里——千里江山3.0”展覽在澳門開幕</a>        </li>
+<li>          <a href="http://big5.zlb.gov.cn/2020-01/07/c_1210428830.htm" target="_blank">鏡平學校舉辦慶祝澳門回歸祖國20週年暨合校70週年晚宴</a>        </li>
+</ul> 
+</div>
+<div class="jj_more"> <a href="http://big5.zlb.gov.cn/textlist.htm?page=jj" target="_blank">更多 ＞＞</a> </div>
+</div>
+<!--end-->
+<div class="clearfix"></div>
+<div class="ad_box">
+<a href="http://big5.zlb.gov.cn/macao/2020lunarnewyear/index.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112547/1125478250_1579335552300_title0h.png" width="1200" border="0" alt="2020年新春酒會" /></a> 
+</div>
+<!--中央聲音&我辦動態-->
+<div class="zywb_box left">
+<div class="tab1">
+<ul class="tab_menu">
+<li class="selected"><a href="http://big5.zlb.gov.cn/zysy.htm" target="_blank">中央聲音</a></li>
+<li><a href="http://big5.zlb.gov.cn/wbdt.htm" target="_blank">工作動態</a></li>
+</ul>
+<div class="clearfix"></div>
+<div class="tab_box">
+<div>
+<div class="zywb_left">
+<a href="http://big5.zlb.gov.cn/2019-09/11/c_1210276844.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112498/1124988373_1575771171351_title0h.jpg" width="213" height="131" border="0" alt="習近平會見賀一誠" /></a>            
+<p>              <a href="http://big5.zlb.gov.cn/2019-09/11/c_1210276844.htm" target="_blank">習近平會見賀一誠</a>            </p>
+</div> 
+<ul class="zywb_list">
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/01/c_1210420451.htm" target="_blank">國家主席習近平發表二&#12295;二&#12295;年新年賀詞</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2019-12/28/c_1210416364.htm" target="_blank">栗戰書向第五任全國人大常委會澳門特別行政區基本法委員會組成人員頒發任命書</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2019-12/06/c_1210384975.htm" target="_blank">韓正會見澳門特別行政區新一屆政府管治團隊</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2019-12/03/c_1210380225.htm" target="_blank">紀念澳門特別行政區基本法實施20週年座談會在京舉行 栗戰書發表講話</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2019-12/02/c_1210378565.htm" target="_blank">國務院任命澳門特別行政區第五屆政府主要官員和檢察長</a>            </li>
+</ul>
+<div class="more"> <a href="http://big5.zlb.gov.cn/zysy.htm" target="_blank">更多 ＞＞</a> </div>
+</div>
+<div class="hide">
+<div class="zywb_left">
+<a href="http://big5.zlb.gov.cn/2019-12/31/c_1210420077.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112540/1125409992_1577790021148_title0h.png" width="213" height="131" border="0" alt="新年獻詞：繼往開來 再創輝煌" /></a>            
+<p>              <a href="http://big5.zlb.gov.cn/2019-12/31/c_1210420077.htm" target="_blank">新年獻詞：繼往開來 再創輝煌</a>            </p>
+</div> 
+<ul class="zywb_list">
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/17/c_1210443063.htm" target="_blank">中央駐澳機構負責人與澳門特區行政長官賀一誠和特區政府主要官員春茗</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/14/c_1210438771.htm" target="_blank">張榮順走訪澳門鏡湖慈善會</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/09/c_1210432188.htm" target="_blank">傅自應出席澳門工聯總會慶祝成立70週年暨第35屆理監事就職聯歡晚會</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/10/c_1210433747.htm" target="_blank">“澳門特區成立20週年大型科技科普展——科技創新讓生活更美好”開幕</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/09/c_1210432189.htm" target="_blank">張榮順走訪澳門同善堂</a>            </li>
+</ul>
+<div class="more"> <a href="http://big5.zlb.gov.cn/wbdt.htm" target="_blank">更多 ＞＞</a> </div>
+</div>
+</div>
+</div>
+</div>
+<!--end--> 
+<!--粵港澳大灣區&澳門熱點&形勢政策-->
+<div class="gardzc_box right">
+<div class="tab2">
+<ul class="tab_menu2">
+<li class="selected"><a href="http://big5.zlb.gov.cn/xszc.htm" target="_blank">形勢政策</a></li>
+<li><a href="http://big5.zlb.gov.cn/ygadwqlist.htm?page=ygadwq" target="_blank">粵港澳大灣區</a></li>
+</ul>
+<div class="clearfix"></div>
+<div class="tab_box2">
+<div>
+<ul class="gardzc_list">
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/20/c_1210444969.htm" target="_blank">“粵澳工商服務中心”啟用 提供一站式註冊登記服務</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/15/c_1210440092.htm" target="_blank">內地、澳門法院民商事案件相互送達和取證將實現全流程在線辦理</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/14/c_1210438419.htm" target="_blank">澳門特區就橫琴口岸澳方口岸區法律適用問題制定法律草案</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/10/c_1210433753.htm" target="_blank">“足不出關”辦理跨境貸款 澳門居民在珠海買房更便利</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/06/c_1210427506.htm" target="_blank">澳門國際機場2019年旅客量和航班量均創紀錄</a>            </li>
+</ul>
+<div class="more"> <a href="http://big5.zlb.gov.cn/xszc.htm" target="_blank">更多 ＞＞</a> </div>
+</div>
+<div class="hide">
+<ul class="gardzc_list">
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/21/c_1210448273.htm" target="_blank">大灣區生態綠化城市聯盟在穗成立</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/14/c_1210438415.htm" target="_blank">2020粵港澳大灣區青少年新年音樂會在穗舉辦</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/07/c_1210428867.htm" target="_blank">粵港澳大灣區司法案例研討會舉行</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/03/c_1210423208.htm" target="_blank">合作互融，澳門居民築夢大灣區</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2019-12/16/c_1210398787.htm" target="_blank">從“橫琴奇跡”到融入粵港澳大灣區——粵澳“無縫融合”發展紀實</a>            </li>
+</ul>
+<div class="more"> <a href="http://big5.zlb.gov.cn/ygadwqlist.htm?page=ygadwq" target="_blank">更多 ＞＞</a> </div>
+</div>
+</div>
+</div>
+</div>
+<!--end-->
+<div class="clearfix"></div>
+<!--憲法-->
+<div class="xf_box">
+<ul class="xf_list">
+<li>        <a href="http://big5.zlb.gov.cn/xfjxgflwj.htm?page=xf" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112514/1125141044_1576227867094_title0h.png" border="0" alt="憲法" /></a>      </li>
+<li>        <a href="http://big5.zlb.gov.cn/jbfjygflwj.htm?page=amjbf" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112514/1125141042_1576227872947_title0h.png" border="0" alt="澳門基本法" /></a>      </li>
+<li>        <a href="http://big5.zlb.gov.cn/zamssdqgxfl.htm?page=zamssdqgxfv" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112531/1125318962_1576227677358_title0h.png" border="0" alt="在澳門實施的全國性法律" /></a>      </li>
+<li>        <a href="http://big5.zlb.gov.cn/yamygdzcfg.htm?page=amflfg" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112514/1125141221_1576227889953_title0h.png" border="0" alt="與澳門有關的政策法規" /></a>      </li>
+<li>        <a href="http://big5.zlb.gov.cn/wdzg.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112514/1125141223_1575771406678_title0h.png" border="0" alt="偉大祖國" /></a>      </li>
+<li>        <a href="http://big5.zlb.gov.cn/textlist.htm?page=amgk" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112514/1125141254_1575771412265_title0h.png" border="0" alt="澳門概況" /></a>      </li>
+</ul> 
+</div>
+<!--end--> 
+<!--視頻-->
+<div class="sp_box right">
+<ul class="tab_menu">
+<li class="selected"><a href="http://big5.zlb.gov.cn/sp.htm" target="_blank">視頻</a></li>
+</ul>
+<div class="more"> <a href="http://big5.zlb.gov.cn/sp.htm" target="_blank">更多 ＞＞</a> </div>
+<div class="clearfix"></div>
+<ul class="sp_list">
+<li>
+<a href="http://big5.zlb.gov.cn/2020-01/03/c_1210422952.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112542/1125420055_1578042316600_title0h.png" width="280" height="167" border="0" alt="濠江情 中國心" />        <span><img src="http://big5.zlb.gov.cn/20191015newhome/images/plyer.png" width="57" height="57" /></span></a>        
+<div class="title">          <a href="http://big5.zlb.gov.cn/2020-01/03/c_1210422952.htm" target="_blank">濠江情 中國心</a>        </div>
+<div class="bg"></div>
+</li>
+<li>
+<a href="http://big5.zlb.gov.cn/2019-12/19/c_1210402629.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112536/1125365378_1576738963154_title0h.png" width="280" height="167" border="0" alt="行走澳門特區：20歲，生日快樂！" />        <span><img src="http://big5.zlb.gov.cn/20191015newhome/images/plyer.png" width="57" height="57" /></span></a>        
+<div class="title">          <a href="http://big5.zlb.gov.cn/2019-12/19/c_1210402629.htm" target="_blank">行走澳門特區：20歲，生日快樂！</a>        </div>
+<div class="bg"></div>
+</li>
+</ul> 
+</div>
+<!--end--> 
+<!--青年交流&媒體評論-->
+<div class="qnmt_box left">
+<div class="tab3">
+<ul class="tab_menu3">
+<li class="selected"><a href="http://big5.zlb.gov.cn/ldjllist.htm?page=qnjl" target="_blank">兩地交流</a></li>
+<li><a href="http://big5.zlb.gov.cn/amrd.htm" target="_blank">澳門熱點</a></li>
+<li><a href="http://big5.zlb.gov.cn/mtpllist.htm?page=mtpl" target="_blank">媒體評論</a></li>
+</ul>
+<div class="clearfix"></div>
+<div class="tab_box3">
+<div>
+<div class="qnmt_left">
+<a href="http://big5.zlb.gov.cn/2020-01/21/c_1210448276.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/121044/1210448276_1579603271785_title0h.jpg" width="213" height="131" border="0" alt="澳門青年北京上演話劇《苦盡甘來》 祝澳門與祖國未來更好" /></a>            
+<p>              <a href="http://big5.zlb.gov.cn/2020-01/21/c_1210448276.htm" target="_blank">澳門青年北京上演話劇《苦盡甘來》 祝澳門與祖國未來更好</a>            </p>
+</div> 
+<ul class="qnmt_list">
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/22/c_1210449534.htm" target="_blank">拱北海關助力年宵花飄香澳門</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/21/c_1210448281.htm" target="_blank">港澳代理見證開立內地個人銀行賬戶累計達8.67萬戶</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/20/c_1210445259.htm" target="_blank">珠澳在通關口岸啟動春節聯合勤務模式</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/07/c_1210428930.htm" target="_blank">粵澳經貿合作錦上更添“花”</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2019-12/30/c_1210418641.htm" target="_blank">一圖讀懂|泛珠內地省區與澳門深化合作紀事</a>            </li>
+</ul>
+<div class="more"> <a href="http://big5.zlb.gov.cn/ldjllist.htm?page=qnjl" target="_blank">更多 ＞＞</a> </div>
+</div>
+<div class="hide">
+<div class="qnmt_left">
+<a href="http://big5.zlb.gov.cn/2019-12/30/c_1210418633.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/121041/1210418633_1577701625122_title0h.jpg" width="213" height="131" border="0" alt="建設智慧城市 澳門交出答卷" /></a>            
+<p>              <a href="http://big5.zlb.gov.cn/2019-12/30/c_1210418633.htm" target="_blank">建設智慧城市 澳門交出答卷</a>            </p>
+</div> 
+<ul class="qnmt_list">
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/22/c_1210449528.htm" target="_blank">澳門舉辦江蘇和廣西織染繡技藝展</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/21/c_1210448284.htm" target="_blank">澳門中醫藥産業火了</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/21/c_1210448282.htm" target="_blank">澳門大學:有了新校區 實現新發展</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/20/c_1210445256.htm" target="_blank">粵港澳大灣區青少年公益年會開幕</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/15/c_1210440094.htm" target="_blank">近千名澳門高中畢業生保送內地高校</a>            </li>
+</ul>
+<div class="more"> <a href="http://big5.zlb.gov.cn/amrd.htm" target="_blank">更多 ＞＞</a> </div>
+</div>
+<div class="hide">
+<div class="qnmt_left">
+<a href="http://big5.zlb.gov.cn/2019-12/21/c_1210405915.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112537/1125373439_1576936358692_title0h.jpg" width="213" height="131" border="0" alt="人民日報評論員：開創澳門歷史上最好的發展局面&mdash;&mdash;論學習貫徹習近平主席在慶祝澳門回歸祖國20週年大會重要講話" /></a>            
+<p>              <a href="http://big5.zlb.gov.cn/2019-12/21/c_1210405915.htm" target="_blank">人民日報評論員：開創澳門歷史上最好的發展局面——論學習貫徹習近平主席在慶祝澳門回歸祖國20週年大會重要講話</a>            </p>
+</div> 
+<ul class="qnmt_list">
+<li>              <a href="http://big5.zlb.gov.cn/2020-01/02/c_1210422354.htm" target="_blank">新華時評：“行得通、辦得到、得人心”</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2019-12/26/c_1210407940.htm" target="_blank">人民日報海外版：澳門明天必將更加美好</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2019-12/26/c_1210407943.htm" target="_blank">光明日報：始終強化“一國兩制”使命擔當</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2019-12/22/c_1210406882.htm" target="_blank">新華社評論員：深刻把握澳門“一國兩制”成功實踐的重要經驗——論習近平主席在慶祝澳門回歸祖國20週年大會重要講話</a>            </li>
+<li>              <a href="http://big5.zlb.gov.cn/2019-12/22/c_1210406736.htm" target="_blank">人民日報評論員：“一國兩制”成功實踐的華彩篇章</a>            </li>
+</ul>
+<div class="more"> <a href="http://big5.zlb.gov.cn/mtpllist.htm?page=mtpl" target="_blank">更多 ＞＞</a> </div>
+</div>
+</div>
+</div>
+</div>
+<!--end-->
+<div class="clearfix"></div>
+<!--多彩澳門-->
+<div class="dcam_box">
+<ul class="tab_menu">
+<li class="selected"> <a href="http://big5.zlb.gov.cn/dcam.htm?page=dcam" target="_blank">多彩<span>澳門</span></a> </li>
+</ul>
+<div class="more"> <a href="http://big5.zlb.gov.cn/dcam.htm?page=dcam" target="_blank">更多 ＞＞</a> </div>
+<div class="clearfix"></div>
+<ul class="dcam_list">
+<li>
+<div class="img">         <a href="http://big5.zlb.gov.cn/2020-01/21/c_1210447904.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112549/1125490923_1579603188429_title0h.jpg" width="300" height="203" border="0" alt="澳門旅遊，盛世蓮開花照眼" /></a>        </div>
+<div class="text">
+<p>            <a href="http://big5.zlb.gov.cn/2020-01/21/c_1210447904.htm" target="_blank">澳門旅遊，盛世蓮開花照眼</a>          </p>
+<div class="line"></div>
+</div>
+</li>
+<li>
+<div class="text yellow">
+<p>            <a href="http://big5.zlb.gov.cn/2020-01/21/c_1210445260.htm" target="_blank">澳門：燈飾喜迎春</a>          </p>
+<div class="line"></div>
+</div>
+<div class="img"><a href="http://big5.zlb.gov.cn/2020-01/21/c_1210445260.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112549/1125490921_1579603153029_title0h.jpg" width="300" height="203" border="0" alt="澳門：燈飾喜迎春" /></a></div>
+</li>
+<li>
+<div class="img"><a href="http://big5.zlb.gov.cn/2019-12/26/c_1210407930.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112539/1125392645_1577363506104_title0h.jpg" width="300" height="203" border="0" alt="&ldquo;哇，太漂亮了！&rdquo;" /></a></div>
+<div class="text">
+<p>            <a href="http://big5.zlb.gov.cn/2019-12/26/c_1210407930.htm" target="_blank">“哇，太漂亮了！”</a>          </p>
+<div class="line"></div>
+</div>
+</li>
+<li>
+<div class="text yellow">
+<p>            <a href="http://big5.zlb.gov.cn/2019-12/19/c_1210402996.htm" target="_blank">澳門掠影</a>          </p>
+<div class="line"></div>
+</div>
+<div class="img"><a href="http://big5.zlb.gov.cn/2019-12/19/c_1210402996.htm" target="_blank"><img src="http://big5.zlb.gov.cn/titlepic/112536/1125365962_1576744247160_title0h.jpg" width="300" height="203" border="0" alt="澳門掠影" /></a></div>
+</li>
+</ul> 
+</div>
+<!--end-->
+<div class="clearfix"></div>
+<div class="ad_box">
+<!----> 
+</div>
+</div>
+<!--友情鏈結-->
+<div class="yqlj_box">
+<div class="content">
+<div class="yqlj_dh">
+<P>友情<span>鏈結</span></P>
+</div>
+<div class="tab4">
+<ul class="tab_menu4">
+<li class="selected">中央及部委網站<i></i></li>
+<li>地方政府網站<i></i></li>
+<li>相關機構團體網站<i></i></li>
+<li>新聞媒體網站<i></i></li>
+<li>澳門特區網站<i></i></li>
+</ul>
+<div class="clearfix"></div>
+<div class="tab_box4">
+<div>
+<div class="yqlj_text">
+<span><a href="http://www.gov.cn/" target="_blank">中國政府網</a></span><span><a href="https://www.mfa.gov.cn" target="_blank">外交部</a></span><span><a href="http://www.mod.gov.cn/" target="_blank">國防部</a></span><span><a href="http://www.ndrc.gov.cn/" target="_blank">國家發展和改革委員會</a></span><span><a href="http://www.moe.gov.cn/" target="_blank">教育部</a></span><span><a href="http://www.most.gov.cn/" target="_blank">科學技術部</a></span><span><a href="http://www.miit.gov.cn/" target="_blank">工業和信息化部</a></span><span><a href="http://www.seac.gov.cn/" target="_blank">國家民族事務委員會</a></span><span><a href="http://www.mps.gov.cn/" target="_blank">公安部</a></span><span>國家安全部</span><span><a href="http://www.mca.gov.cn/" target="_blank">民政部</a></span><span><a href="http://www.moj.gov.cn/" target="_blank">司法部</a></span><span><a href="http://www.mof.gov.cn/index.htm" target="_blank">財政部</a></span><span><a href="http://www.mohrss.gov.cn/" target="_blank">人力資源和社會保障部</a></span><span><a href="http://www.mnr.gov.cn/" target="_blank">自然資源部</a></span><span><a href="http://www.mee.gov.cn/" target="_blank">生態環境部</a></span><span><a href="http://www.mohurd.gov.cn/" target="_blank">住房和城鄉建設部</a></span><span><a href="http://www.mot.gov.cn/" target="_blank">交通運輸部</a></span><span><a href="http://www.mwr.gov.cn/" target="_blank">水利部</a></span><span><a href="http://www.moa.gov.cn/" target="_blank">農業農村部</a></span><span><a href="http://www.mofcom.gov.cn/" target="_blank">商務部</a></span><span><a href="https://www.mct.gov.cn" target="_blank">文化和旅遊部</a></span><span><a href="http://www.nhc.gov.cn/" target="_blank">國家衛生健康委員會</a></span><span><a href="http://www.mva.gov.cn/" target="_blank">退役軍人事務部</a></span><span><a href="https://www.mem.gov.cn" target="_blank">應急管理部</a></span><span><a href="http://www.pbc.gov.cn/" target="_blank">人民銀行</a></span><span><a href="http://www.audit.gov.cn/" target="_blank">審計署</a></span><span><a href="http://www.moe.gov.cn/jyb_sy/China_Language" target="_blank">國家語言文字工作委員會</a></span><span>國家外國專家局</span><span><a href="/gate/big5/www.cnsa.gov.cn/" target="_blank">國家航天局</a></span><span><a href="/gate/big5/www.caea.gov.cn/" target="_blank">國家原子能機構</a></span><span>國家海洋局</span><span><a href="http://nnsa.mee.gov.cn/" target="_blank">國家核安全局</a></span><span><a href="http://www.sasac.gov.cn/" target="_blank">國務院國有資産監督管理委員會</a></span><span><a href="/gate/big5/www.customs.gov.cn/" target="_blank">海關總署</a></span><span><a href="/gate/big5/www.chinatax.gov.cn/" target="_blank">國家稅務總局</a></span><span><a href="http://www.samr.gov.cn/" target="_blank">國家市場監督管理總局</a></span><span><a href="http://www.nrta.gov.cn/" target="_blank">國家廣播電視總局</a></span><span><a href="http://www.sport.gov.cn/" target="_blank">國家體育總局</a></span><span><a href="http://www.stats.gov.cn/" target="_blank">國家統計局</a></span><span><a href="/gate/big5/www.cidca.gov.cn/" target="_blank">國家國際發展合作署</a></span><span><a href="http://www.nhsa.gov.cn/" target="_blank">國家醫療保障局</a></span><span><a href="/gate/big5/www.counsellor.gov.cn/" target="_blank">國務院參事室</a></span><span><a href="http://www.ggj.gov.cn/" target="_blank">國家機關事務管理局</a></span><span><a href="/gate/big5/www.cnca.gov.cn/" target="_blank">國家認證認可監督管理委員會</a></span><span><a href="http://www.sac.gov.cn/" target="_blank">國家標準化管理委員會</a></span><span><a href="http://www.ncac.gov.cn/" target="_blank">國家新聞出版署（國家版權局）</a></span><span>國家宗教事務局</span><span><a href="http://www.hmo.gov.cn/" target="_blank">國務院港澳事務辦公室</a></span><span><a href="http://www.gov.cn/guoqing/2018-06/22/content_5300522.htm" target="_blank">國務院研究室</a></span><span><a href="http://www.gqb.gov.cn/" target="_blank">國務院僑務辦公室</a></span><span><a href="http://www.gwytb.gov.cn/" target="_blank">國務院&#x53F0;&#x7063;事務辦公室</a></span><span><a href="/gate/big5/www.cac.gov.cn/" target="_blank">國家互聯網信息辦公室</a></span><span><a href="http://www.scio.gov.cn/index.htm" target="_blank">國務院新聞辦公室</a></span><span><a href="/gate/big5/203.192.6.89/xhs" target="_blank">新華通訊社</a></span><span><a href="/gate/big5/www.cas.ac.cn/" target="_blank">中國科學院</a></span><span><a href="http://cass.cssn.cn/" target="_blank">中國社會科學院</a></span><span><a href="/gate/big5/www.cae.cn/" target="_blank">中國工程院</a></span><span><a href="http://www.drc.gov.cn/" target="_blank">國務院發展研究中心</a></span><span>中央廣播電視總台</span><span><a href="/gate/big5/www.cma.gov.cn/" target="_blank">中國氣象局</a></span><span><a href="/gate/big5/www.cbirc.gov.cn/cn/index.html" target="_blank">中國銀行保險監督管理委員會</a></span><span><a href="/gate/big5/www.csrc.gov.cn/pub/newsite" target="_blank">中國證券監督管理委員會</a></span><span><a href="/gate/big5/www.ccps.gov.cn/" target="_blank">國家行政學院</a></span><span><a href="http://www.gjxfj.gov.cn/gjxfj/index.htm" target="_blank">國家信訪局</a></span><span><a href="/gate/big5/www.lswz.gov.cn/" target="_blank">國家糧食和物資儲備局</a></span><span><a href="http://www.nea.gov.cn/" target="_blank">國家能源局</a></span><span><a href="http://www.sastind.gov.cn/" target="_blank">國家國防科技工業局</a></span><span><a href="http://www.tobacco.gov.cn/" target="_blank">國家煙草專賣局</a></span><span><a href="https://www.nia.gov.cn" target="_blank">國家移民管理局</a></span><span><a href="http://www.forestry.gov.cn/" target="_blank">國家林業和草原局</a></span><span><a href="http://www.nra.gov.cn/" target="_blank">國家鐵路局</a></span><span><a href="/gate/big5/www.caac.gov.cn/index.html" target="_blank">中國民用航空局</a></span><span><a href="http://www.spb.gov.cn/" target="_blank">國家郵政局</a></span><span><a href="http://www.sach.gov.cn/" target="_blank">國家文物局</a></span><span><a href="http://www.satcm.gov.cn/" target="_blank">國家中醫藥管理局</a></span><span><a href="/gate/big5/www.chinacoal-safety.gov.cn/" target="_blank">國家煤礦安全監察局</a></span><span><a href="http://www.safe.gov.cn/" target="_blank">國家外匯管理局</a></span><span><a href="http://www.nmpa.gov.cn/" target="_blank">國家藥品監督管理局</a></span><span><a href="/gate/big5/www.cnipa.gov.cn/" target="_blank">國家知識産權局</a></span><span>&#x51FA;&#x5165;境管理局</span><span><a href="http://www.forestry.gov.cn/" target="_blank">國家公園管理局</a></span><span><a href="http://www.scs.gov.cn/" target="_blank">國家公務員局</a></span><span><a href="http://www.saac.gov.cn/" target="_blank">國家檔案局</a></span><span><a href="http://www.gjbmj.gov.cn/" target="_blank">國家保密局</a></span><span><a href="http://www.oscca.gov.cn/" target="_blank">國家密碼管理局</a></span> 
+</div>
+</div>
+<div class="hide">
+<div class="yqlj_text">
+<span><a href="http://www.beijing.gov.cn/" target="_blank">北京</a></span><span><a href="http://www.tj.gov.cn/" target="_blank">天津</a></span><span><a href="http://www.hebei.gov.cn/" target="_blank">河北</a></span><span><a href="http://www.shanxi.gov.cn/" target="_blank">山西</a></span><span><a href="http://www.nmg.gov.cn/" target="_blank">內蒙古</a></span><span><a href="/gate/big5/www.ln.gov.cn/" target="_blank">遼寧</a></span><span><a href="http://www.jl.gov.cn/" target="_blank">吉林</a></span><span><a href="http://www.hlj.gov.cn/" target="_blank">黑龍江</a></span><span><a href="http://www.shanghai.gov.cn/" target="_blank">上海</a></span><span><a href="http://www.jiangsu.gov.cn/" target="_blank">江蘇</a></span><span><a href="/gate/big5/www.zhejiang.gov.cn/" target="_blank">浙江</a></span><span><a href="http://www.ah.gov.cn/" target="_blank">安徽</a></span><span><a href="http://www.fujian.gov.cn/" target="_blank">福建</a></span><span><a href="http://www.jiangxi.gov.cn/" target="_blank">江西</a></span><span><a href="http://www.shandong.gov.cn/" target="_blank">山東</a></span><span><a href="http://www.henan.gov.cn/" target="_blank">河南</a></span><span><a href="http://www.hubei.gov.cn/" target="_blank">湖北</a></span><span><a href="http://www.hunan.gov.cn/" target="_blank">湖南</a></span><span><a href="http://www.gd.gov.cn/" target="_blank">廣東</a></span><span><a href="http://www.gxzf.gov.cn/" target="_blank">廣西</a></span><span><a href="http://www.hainan.gov.cn/" target="_blank">海南</a></span><span><a href="/gate/big5/www.cq.gov.cn/" target="_blank">重慶</a></span><span><a href="http://www.sc.gov.cn/" target="_blank">四川</a></span><span><a href="http://www.guizhou.gov.cn/" target="_blank">貴州</a></span><span><a href="http://www.yn.gov.cn/" target="_blank">雲南</a></span><span><a href="/gate/big5/www.xizang.gov.cn/" target="_blank">西藏</a></span><span><a href="http://www.shaanxi.gov.cn/" target="_blank">陜西</a></span><span><a href="http://www.gansu.gov.cn/" target="_blank">甘肅</a></span><span><a href="http://www.qh.gov.cn/" target="_blank">青海</a></span><span><a href="http://www.nx.gov.cn/" target="_blank">寧夏</a></span><span><a href="/gate/big5/www.xinjiang.gov.cn/" target="_blank">新疆</a></span><span><a href="https://www.gov.hk/sc/residents" target="_blank">香港</a></span><span><a href="https://www.gov.mo/zh-hant" target="_blank">澳門</a></span><span>&#x53F0;&#x7063;</span><span><a href="/gate/big5/www.xjbt.gov.cn/" target="_blank">新疆生産建設兵團</a></span> 
+</div>
+</div>
+<div class="hide">
+<div class="yqlj_text">
+<span><a href="http://www.acftu.net/" target="_blank">中華全國總工會</a></span><span><a href="/gate/big5/www.ccyl.org.cn/" target="_blank">中國共青團</a></span><span><a href="http://www.women.org.cn/" target="_blank">全國婦聯</a></span><span><a href="/gate/big5/www.cast.org.cn/" target="_blank">中國科協</a></span><span><a href="/gate/big5/www.chinaql.org/" target="_blank">中國僑聯</a></span><span><a href="http://www.tailian.org.cn/" target="_blank">全國&#x53F0;&#x806F;</a></span><span><a href="http://www.acyf.org.cn/" target="_blank">全國青聯</a></span><span><a href="http://www.acfic.org.cn/" target="_blank">全國工商聯</a></span> 
+</div>
+</div>
+<div class="hide">
+<div class="yqlj_text">
+<span><a href="http://www.people.com.cn/" target="_blank">人民日報</a></span><span><a href="/gate/big5/www.xinhuanet.com/" target="_blank">新華社</a></span><span><a href="http://www.gmw.cn/" target="_blank">光明日報</a></span><span><a href="/gate/big5/www.ce.cn/" target="_blank">經濟日報</a></span><span><a href="/gate/big5/www.cnr.cn/" target="_blank">中央人民廣播電台</a></span><span><a href="/gate/big5/www.cctv.com/" target="_blank">中央電視台</a></span><span><a href="/gate/big5/www.cri.cn/" target="_blank">中央國際廣播電台</a></span><span><a href="http://cn.chinadaily.com.cn/" target="_blank">中國日報</a></span><span><a href="/gate/big5/www.cyol.net/" target="_blank">中國青年報</a></span><span><a href="http://www.people.com.cn/" target="_blank">人民網</a></span><span><a href="http://www.news.cn/" target="_blank">新華網</a></span><span><a href="/gate/big5/www.china.com.cn/" target="_blank">中國網</a></span><span><a href="/gate/big5/www.cctv.com/" target="_blank">央視網</a></span><span><a href="/gate/big5/www.chinadaily.com.cn/" target="_blank">中國日報網</a></span><span><a href="/gate/big5/www.cri.cn/index.html" target="_blank">國際在線</a></span><span><a href="http://www.youth.cn/" target="_blank">中國青年網</a></span><span><a href="/gate/big5/www.ce.cn/" target="_blank">中國經濟網</a></span><span><a href="/gate/big5/www.chinanews.com/" target="_blank">中國新聞網</a></span> 
+</div>
+</div>
+<div class="hide">
+<div class="yqlj_text">
+<span><a href="https://www.gov.mo/zh-hant" target="_blank">澳門特區政府</a></span><span><a href="https://www.al.gov.mo" target="_blank">立法會</a></span><span><a href="/gate/big5/www.court.gov.mo/zh" target="_blank">法院</a></span><span><a href="https://www.gce.gov.mo" target="_blank">行政長官辦公室</a></span><span><a href="https://www.gsaj.gov.mo" target="_blank">行政法務司司長辦公室</a></span><span><a href="https://www.gsef.gov.mo" target="_blank">經濟財政司司長辦公室</a></span><span><a href="https://www.gss.gov.mo" target="_blank">保安司司長辦公室</a></span><span><a href="https://www.gsasc.gov.mo" target="_blank">社會文化司司長辦公室</a></span><span>運輸工務司司長辦公室</span><span><a href="/gate/big5/www.ccac.org.mo/" target="_blank">廉政公署</a></span><span><a href="/gate/big5/www.ca.gov.mo/cn/main.php" target="_blank">審計署</a></span><span><a href="https://www.mp.gov.mo/zh_tw/standard/index.html" target="_blank">檢察院</a></span> 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--end--> 
+<!--footer-->
+<div class="footer">
+<ul>
+<li>版權所有：中央人民政府駐澳門特別行政區聯絡辦公室 | 地址：澳門羅理基博士大馬路603號 | <a href="http://www.beian.miit.gov.cn/" target="_blank">ICP備案號：京ICP備19049528號</a> </li>
+<li> <a href="http://big5.zlb.gov.cn/macao/jgzn.htm" target="_blank"> 關於我們</a> | <a href="http://big5.zlb.gov.cn/2014-07/23/c_126788605.htm" target="_blank"> &#x806F;&#x7E6B;我們</a> | <a href="http://big5.zlb.gov.cn/2014-07/03/c_126705815.htm" target="_blank"> 重要聲明</a> </li>
+</ul>
+</div>
+<!--end--> 
+<!--二維碼-->
+<div class="ewm_box">
+<div class="img"><img src="http://big5.zlb.gov.cn/20191015newhome/images/ewm.jpg" width="70" height="70" /></div>
+<p>澳門中聯辦微信公眾號</p>
+</div>
+<!--end--> 
+<!--返回top-->
+<div class="backtop"> <img src="http://big5.zlb.gov.cn/20191015newhome/images/backtop.png" width="80" height="80" /> </div>
+<!--end--> 
+<script src="http://big5.zlb.gov.cn/2018/js/topheard.js"></script> 
+<script type="text/javascript"> 
+var mySwiper = new Swiper('.focusBox3 .swiper-container',{ 
+    pagination: '.pagination', 
+    loop:true, 
+    grabCursor: true, 
+    paginationClickable: true, 
+    autoplay:3000 
+}) 
+$('.arrow-left').on('click', function(e){ 
+    e.preventDefault() 
+    mySwiper.swipePrev() 
+}) 
+$('.arrow-right').on('click', function(e){ 
+    e.preventDefault() 
+    mySwiper.swipeNext() 
+}) 
+//中央聲音&我辦動態
+var $tab_li = $('.tab1 ul li'); 
+$tab_li.hover(function(){ 
+$(this).addClass('selected').siblings().removeClass('selected'); 
+var index = $tab_li.index(this); 
+$('div.tab_box > div').eq(index).show().siblings().hide(); 
+}); 
+//粵港澳大灣區&澳門熱點&形勢政策
+var $tab_li2 = $('.tab2 ul li'); 
+$tab_li2.hover(function(){ 
+$(this).addClass('selected').siblings().removeClass('selected'); 
+var index = $tab_li2.index(this); 
+$('div.tab_box2 > div').eq(index).show().siblings().hide(); 
+}); 	
+//青年交流&媒體評論
+var $tab_li3 = $('.tab3 ul li'); 
+$tab_li3.hover(function(){ 
+$(this).addClass('selected').siblings().removeClass('selected'); 
+var index = $tab_li3.index(this); 
+$('div.tab_box3 > div').eq(index).show().siblings().hide(); 
+}); 	
+//友情鏈結
+var $tab_li4 = $('.tab4 ul li'); 
+$tab_li4.hover(function(){ 
+$(this).addClass('selected').siblings().removeClass('selected'); 
+var index = $tab_li4.index(this); 
+$('div.tab_box4 > div').eq(index).show().siblings().hide(); 
+});
+//gobacktop
+$(function(){
+    //當滾動條的位置處於距頂部100像素以下時，跳轉鏈結出現，否則消失
+    $(function () {
+        $(window).scroll(function(){
+            if ($(window).scrollTop()>100){
+                $(".backtop").fadeIn(500);
+            }
+            else
+            {
+                $(".backtop").fadeOut(500);
+            }
+        });
+        //當點擊跳轉鏈結後，回到頁面頂部位置
+        $(".backtop").click(function(){
+            $('body,html').animate({scrollTop:0},800);
+            return false;
+        });
+    });
+});
+</script>
+</body>
+</html>

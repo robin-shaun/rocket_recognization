@@ -1,0 +1,1996 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="gb2312">
+<meta name="description" content="中国青年网，1999年5月4日正式开通，共青团中央主办的中央重点新闻网站，是国内最大的青年主流网站。中国青年网竭诚服务青年的文化、心理、情感和创业需求，是共青团运用网络文化元素吸引青年的新载体和引导青年的新途径，为团组织通过新媒体融入青年提供有力支撑。 中国青年网拥有400余个子网站，2000多个栏目，用文字、图片、动漫、音视频、论坛、博客、微博、手机、网上直播等多种手段，依托共青团中央丰富的资源，每天向全球网民发布丰富多彩的信息，内容包括政治、经济、社会、文化、娱乐、时尚、教育、心理等各个领域。" />
+<meta name="keywords" content="中国青年网,青年网,youth,cycnet,新闻中心,时政,国际,地方,香港,台湾,澳门,华人,军事,图片,财经,政权,汽车,体育,奥运,法治,廉政,社会,科技,互联网,教育,文娱,电视剧,电影,视频,访谈,直播,专题,大学生村官,青春励志,青年,mp3,音乐,团组织,团员,共青团,参与,发现,国学,孝道,文化,公益,民生,财经,组织,人物,情感,话题" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<title>中国青年网_青年温度、青春靓度、青网态度</title>
+<link href="//www.youth.cn/images/20190923index_youth.css" rel="stylesheet" type="text/css" />
+<script src="//www.youth.cn/images/jquery-index-1.9.1.js"></script>
+<script type="text/javascript" src="//www.youth.cn/images/20170828youth_tptt_001.js"></script>
+<script type="text/javascript" src="//www.youth.cn/images/20180706youth_tptt_sy_ad.js"></script>
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+<!--[if lt IE 9]><link rel="stylesheet" href="//www.youth.cn/images/20170823ie_index.css"> <![endif]-->
+<!-- Start Alexa Certify Javascript new -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"r+FMm1a4KM+2uW", domain:"youth.cn",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=r+FMm1a4KM+2uW" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<style>
+
+/*灰色滤镜*/
+/*灰色滤镜*/
+  
+/*灰色滤镜*/
+.youth-hotline h1 a {
+    color: #D62929;
+}
+
+.youth-hotline h1 {
+    font-size: 28px;
+    font-family: "Microsoft YaHei";
+    line-height: 39px;
+    text-align: center;
+}
+
+strong, b {
+    font-weight: bold;
+}
+.f_end li {
+     padding-left: 0px; 
+}
+.f_end li span {
+    font-size: 16px;
+}
+.youth-link-con a {
+    margin: 0px 3px;
+}
+.youth-hotline h1
+{
+    font-weight: bold;
+}
+.youth-hotline center a {
+  
+    color: #333;
+}
+.gao_new
+{
+margin: 15px 0px 0px;
+}
+.cljysxz {
+    margin-top: -2px;
+}
+.hotpic_box img:hover ,.hotpic_box2  img:hover
+{
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+    -webkit-transition: all 0.5s ease-in-out 0s;
+    -moz-transition: all 0.5s ease-in-out 0s;
+    -o-transition: all 0.5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
+}
+.rainbowimg {
+   
+    background: url(//picture.youth.cn/images/youth_sjy_01.jpg) no-repeat top center;
+}
+.rainbow-top {
+ 
+    background-color: #38a548;
+}
+.youth-copyright center a {color:#666;}
+.youth-copyright center a:hover { text-decoration:underline;}
+#erbar_xy {
+    height: 37px;
+    background: url(//www.youth.cn/images/20180611xyjpg.jpg) no-repeat;
+}
+.erbar_xy_1 {
+    position: absolute;
+    top: -108px;
+    left: -165px;
+    width: 148px;
+    height: 146px;
+    transform: scale(0);
+    -moz-transform: scale(0);
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    -o-transform: scale(0);
+    transform-origin: bottom right;
+    opacity: 0;
+    -webkit-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+  #erbar_xy:hover img{
+            transform:scale(1);
+            -moz-transform:scale(1);
+            -webkit-transform:scale(1);
+            -ms-transform:scale(1);
+            -o-transform:scale(1);
+            opacity:1;
+        }
+#zgqnb_ewm{
+    height: 37px;
+    background: url(//news.youth.cn/images/20190921pc_qb_logo.png) no-repeat;
+}
+#zgqnb_ewm:hover img
+{
+            transform:scale(1);
+            -moz-transform:scale(1);
+            -webkit-transform:scale(1);
+            -ms-transform:scale(1);
+            -o-transform:scale(1);
+            opacity:1;
+}
+
+.zgqnb_ewm{
+    position: absolute;
+    top: -108px;
+    left: -165px;
+    width: 148px;
+    height: 146px;
+    transform: scale(0);
+    -moz-transform: scale(0);
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    -o-transform: scale(0);
+    transform-origin: bottom right;
+    opacity: 0;
+    -webkit-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+/*飘红代码css  start*/
+/**
+body
+{
+background: #EEE url(//news.youth.cn/images/20190625youth_banner_new.jpg) center 0px no-repeat;
+background-color:#FFF;
+}
+
+.container
+{
+    width:1000px;
+    margin:0 auto;
+       
+}
+.bg_ban_m {
+    display: block;
+    width: 1000px;
+    height: 121px;
+}
+.youth-menu {
+    width: 1000px;
+    margin: 0 auto;
+}
+**/
+/*飘红代码css  end*/
+.menu-con {
+    width:988px;
+}
+.menu-list li p a {
+    margin: 0px 10px;
+    float: left;
+}
+.menu-list li span {
+    font-weight: bold;
+    float: left;
+    margin-right: 8px;
+}
+.youth_div
+{
+width:1000px;
+margin:0 auto;
+}
+
+.youthggw-k-dh
+{
+    width: 1000px;
+    float: left;
+    margin: 0px 0px 15px;
+}
+.youth-sp-gg
+{
+   width: 1000px;
+    margin: 0 auto;
+}
+.youth-footer-div
+{
+width:100%;
+margin:0 auto;
+}
+.footercon a
+{
+ color:#000;
+}
+.youth-link-con a {
+    margin: 0px 7px;
+}
+.qbqw_img_li p  a{
+    font-size: 12px;
+    line-height: 22px;
+    padding: 10px 0px;
+    color: #333;
+}
+.qbqw_ul li .qbqw_text a
+{
+    color: #333;
+}
+.youth-title h1 a {
+    float: left;
+    color: #db0000;
+}
+.youth_so_submit {
+    width: 55px;
+    float: right;
+    height: 28px;
+    background-color: #ebebeb;
+    font-family: "微软雅黑", "黑体";
+    font-size: 14px;
+    text-align: center;
+    line-height: 28px;
+    border: 0px;
+    cursor: pointer;
+    color: #747474;
+    border-left: #deddde 1px solid;
+}
+.youth_so span {
+    width: 205px;
+    height: 28px;
+    float: left;
+}
+.jn-wby {
+    width: 175px;
+    height: 26px;
+    float: left;
+    border: 0;
+    line-height: 26px;
+    color: #000; 
+    text-align: left;
+   }
+.great-title center a {
+    margin: 0px 5px;
+    color: #e9101e;
+}
+.nav-shou03 {
+    float: left;
+    width: 195px;
+    padding-left: 7px;
+}
+.slidImgDiv_ph ul li .txt a
+{
+    font-family: "Microsoft YaHei";
+}
+.great-title h1 a {
+    color:  #e9101e;
+    font-weight: bold;
+}
+.great-title center a {
+    margin: 0px 5px;
+    color: #e9101e !important;
+}
+
+
+</style>
+</head>
+<body>
+<!--飘红版块start-->
+<!--<script type="text/javascript" src="//news.youth.cn/images/20190919wmszhmain_youthph.js"></script>-->
+<!--新版飘红区块添加至此处20191009-->
+
+<!--飘红版块end-->
+<!--
+<div class="container">
+<div class="youth_ph"><a href="//news.cyol.com/xwzt/node_67575.htm" target="_blank"><img src="//news.youth.cn/images/20191220_youth_background_5.jpg" width="100%" /></a></div>
+-->
+<!--飘红代码html start-->
+<!--
+<div class="top_banner" style="display:block; ">
+<div class="bg_ban_cls"><a href="javascript:hidebg()" title="关闭"></a></div>
+<a href="javascript:" class="bg_ban_m"  onfocus="this.blur()"></a>
+</div>
+-->
+<!--飘红代码html end-->
+
+<!--头部导航改版start-->
+<div class="hd_top">
+<div class="hd_top1"></div>
+    <div class="hd_top_box">
+        <div class="nav-shou01 floleft"><span>中央重点新闻网站</span> <span>团中央官方网站</span></div>
+        <div class="nav-shou02"> <center><p><a href="//bbs.youth.cn/thread-1590907-1-1.html" style=" cursor: pointer;">设为首页</a> <a onclick="window.external.addFavorite('//www.youth.cn','中国青年网')" target="_self" href="//www.youth.cn">加入收藏</a> <a href="//en.youth.cn/" target="_blank">English</a> <a href="//fr.youth.cn/" target="_blank">French</a> <a href="//jp.youth.cn/" target="_blank">日本语</a> <a href="//kr.youth.cn/" target="_blank"> <img src="./images/hypdwz-01.png" /> </a> <a href="//ru.youth.cn/" target="_blank"> <img src="./images/eypd-01.jpg" /> </a></p> </center></div>
+        <div class="nav-shou03 floleft"><a href="//zqb.cyol.com/" target="_blank"><img src="//news.youth.cn/images/20190925qnbszb_icon.png" /> </a><a href="//www.cyol.com/" target="_blank"><img src="//news.youth.cn/images/20190925zaixian_icon.png" style="    padding-left: 13px;" /> </a>  </div>
+        <div class="nav-shou04 floright"> <a href="//www.youth.cn/wdjz/" target="_blank">微端矩阵</a></div>
+    </div>
+</div>
+<!--头部导航改版end-->
+    <div style="width: 1000px; margin: 0 auto;    height: 108px;">
+    <div class="youth-first">
+        <div class="youth-first01"><img src="//news.youth.cn/images/20190921logo_new.png" /></div>
+        <center><div class="youth-first02"> <a href="http://qnzs.youth.cn/" target="_blank"><img src="http://www.youth.cn/images/20191008sydypxlogogg.png" /></a></div></center>
+        <div class="youth-first03">
+            <div class="youth-select">
+    <div class="select_one">
+        <div class="one_value">
+            <p>中国青年报系</p>
+            <b class="down_sj"></b>
+        </div>
+        <ul  class="one_list">
+            <li><a href="//zqb.cyol.com/" target="_blank">中国青年报</a></li>
+            <li><a href="//qnck.cyol.com/" target="_blank">青年参考</a></li>
+            <li><a href="//qnzj.cyol.com" target="_blank">中国青年作家报</a></li>
+            <li><a href="//qnsx.cyol.com" target="_blank">青年时讯</a></li>
+        </ul>
+    </div>
+    <div class="select_two">
+        <div class="two_value">
+            <p>网站矩阵</p>
+            <b class="down_sj"></b>
+        </div>
+        <ul  class="two_list">
+            <li><a href="//www.gqt.org.cn/" target="_blank">中国共青团网</a></li>
+            <li><a href="//www.cyol.com/" target="_blank">中青在线</a></li>
+                        <li><a href="//qnzs.youth.cn/" target="_blank">青年之声</a></li>
+            <li><a href="//www.zgzyz.org.cn/" target="_blank">中国青年志愿者网</a></li>
+            <li><a href="//xibu.youth.cn/" target="_blank">西部计划网</a></li>
+            <li><a href="//www.xiaomei.cc/" target="_blank">校媒网</a></li>
+            <li><a href="//www.kab.org.cn/" target="_blank">KAB创业教育网</a></li>
+            <li><a href="//cunguan.youth.cn/" target="_blank">大学生村官之家网</a></li>
+            <li><a href="//dysj.youth.cn/" target="_blank">第一书记网</a></li>
+            <li><a href="//sxx.youth.cn/" target="_blank">“三下乡”社会实践网</a></li>
+            <li><a href="//agzy.youth.cn/" target="_blank">中国青少年爱国主义网</a></li>
+            
+        </ul>
+    </div>
+        </div>
+<script>
+
+  $(".select_one").mouseover(function(){
+           $(".one_list").show()       
+            $(".one_value b").removeClass("down_sj").addClass("active")
+      })
+    
+      $(".select_one").mouseout(function(){
+        $(this).find("ul").hide()
+        $(".one_value b").removeClass("active").addClass("down_sj")
+
+      })
+      $(".select_two").mouseover(function(){
+        $(".two_list").show()
+        $(".two_value b").removeClass("down_sj").addClass("active")
+
+      })
+      $(".select_two").mouseout(function(){
+    
+        $(this).find("ul").hide()
+        $(".two_value b").removeClass("active").addClass("down_sj")
+      })
+
+      $(".one_list li").mouseover(function(){
+          $(this).addClass("skyblue").siblings().removeClass("skyblue")
+         
+      })
+      $(".two_list li ").mouseout(function(){
+          $(this).addClass("skyblue").siblings().removeClass("skyblue")
+        
+         
+      })
+
+</script>
+
+  <div class="youth_so">
+       <form action="http://search.youth.cn/cse/search" method="get" target="_blank" class="bdcs-search-form" autocomplete="off" id="bdcs-search-form">
+        <input type="hidden" name="s" value="15107678543080134641" />
+        <input type="hidden" name="entry" value="1" />
+        <input type="hidden" name="ie" value="gb2312" />
+	<span> <img src="./images/kp_ico.gif" style="float:left;" width="30" height="28" />
+	<input type="text" name="q" class="bdcs-search-form-input jn-wby" id="bdcs-search-form-input" autocomplete="off" style="height: 28px; line-height: 28px;" />
+        </span>
+        <input type="submit" class="bdcs-search-form-submit youth_so_submit" id="bdcs-search-form-submit" value="搜索" />
+    </form>
+</div>
+
+
+</div>
+</div>
+</div>  
+
+<div class="youth-menu">
+    <div class="menu-con">
+    <ul class="menu-list dw01">
+      <li><span><a href="//news.youth.cn/" target="_blank">新闻</a></span>
+        <p class="dwk01"><a href="//picture.youth.cn/" target="_blank">图片</a><a href="//pinglun.youth.cn/" target="_blank">评论</a><a href="//news.youth.cn/js/" target="_blank">军事</a>
+        </p>
+      </li>
+      <li><span><a href="//finance.youth.cn/" target="_blank">财经</a></span>
+        <p class="dwk01"><a href="//edu.youth.cn/" target="_blank">教育</a><a href="//lilun.youth.cn/" target="_blank">理论</a><a href="//news.youth.cn/zc/" target="_blank">体育</a></p>
+      </li>
+    </ul>
+    <ul class="menu-list dw02" style="left: 225px;">
+      <li><span><a href="//www.gqt.org.cn/" target="_blank">共青团网</a></span>
+        <p>  <a href="//dysj.youth.cn/" class="dwk02" target="_blank">第一书记网</a>   <a href="//agzy.youth.cn/" target="_blank" >爱国</a></p>
+      </li>
+      <li><span><a href="//qclz.youth.cn/zgmjxz/" target="_blank">青春励志</a></span>
+        <p><a href="//cunguan.youth.cn/" class="dwk02" target="_blank">大学生村官</a><a href="//gy.youth.cn/" target="_blank">公益</a></p>
+      </li>
+    </ul>
+    <ul class="menu-list dw03" style="left: 479px;">
+      <li><span><a href="//kandian.youth.cn/" target="_blank">中青看点</a></span>
+        <p><a href="//wenhua.youth.cn/" target="_blank">文化
+    </a>         <a href="//feiyi.youth.cn/" target="_blank">非遗</a>         <a href="//d.youth.cn/" target="_blank">发现</a></p>
+      </li>
+      <li><span><a href="//qnzs.youth.cn/" class="" target="_blank">青年之声</a></span>
+        <p><a href="//tour.youth.cn/" target="_blank">旅游</a> <a href="//fun.youth.cn/"  style="    margin: 0px 1px 0px 11px;" target="_blank">娱乐</a>     <a href="//book.youth.cn/" style="margin: 0 18px;" target="_blank">读书</a></p>
+      </li>
+    </ul>
+    <ul class="menu-list dw04" style="left: 736px;">
+      <li><span><a href="//yq.youth.cn" target="_blank">中青舆情</a></span>
+        <p><a href="//iot.youth.cn/" target="_blank">物联网</a><a href="//auto.youth.cn/"  target="_blank">汽车</a><a href="//youxi.youth.cn/"  target="_blank">游戏</a></p>
+      </li>
+      <li><span><a href="//v.youth.cn/" target="_blank">青年电视</a></span>
+        <p><a href="//cy.youth.cn/"  target="_blank" style="    margin: 0px 6px 0px 18px;">创业</a>    <a href="//df.youth.cn/" style="margin: 0 5px 0px 20px;" target="_blank">地方</a>      <a href="//vr.youth.cn/" target="_blank" style="
+           margin: 0px 5px 0 24px;
+">VR</a></p>
+      </li>
+    </ul>
+    
+
+    </div>
+</div>
+<!--
+<div class="youth-sp-gg">
+<ul class="youthggw-k-dh">
+         <li class="youthgg01"><a href="#" target="_blank"><img src="./images/20190918ggimg01.jpg" width="270" height="100" /></a></li>
+     <li class="youthgg02"><a href="#" target="_blank"><img src="./images/20190918ggimg02.jpg" width="430" height="100" /></a></li>
+     <li class="youthgg01"><a href="#" target="_blank"><img src="./images/20190918ggimg01.jpg" width="270" height="100" /></a></li>
+    </ul>
+</div>  
+-->
+<div class="concent">
+    <!--新版页面头图-->
+    <div class="youth-ggw" style="display:none"><a href="#" target="_blank"><img src="//www.youth.cn/images/20170829banner.jpg" /></a></div>
+    <!--新版页面头图-->
+    <div class="youth-title floleft">
+        <h1><a href="//news.youth.cn/gn/" target="_blank">滚动新闻:</a></h1>
+        <div class="youth-title-gund">
+            <div class="gudn" id="demo" style="overflow:hidden; ">
+    <div style="/*width:99999999px;*/width:8000%; ">
+      <div id="demo1">
+        <p>
+         
+            <a href="//news.youth.cn/gn/202001/t20200123_12176736.htm" target="_blank">H5｜这场马拉松，我们即将冲刺了</a>
+          
+            <a href="//news.youth.cn/gn/202001/t20200123_12176713.htm" target="_blank">【新春走基层】高原汽车兵：紧握强军方向盘</a>
+          
+            <a href="//news.youth.cn/gn/202001/t20200123_12176642.htm" target="_blank">车厢就是舞台，尽力做到做好!</a>
+          
+            <a href="//news.youth.cn/gn/202001/t20200123_12176630.htm" target="_blank">春节微视频丨三个故事</a>
+          
+            <a href="//news.youth.cn/gn/202001/t20200123_12176623.htm" target="_blank">微视频|改变贫困的力量</a>
+          
+            <a href="//news.youth.cn/gn/202001/t20200123_12176613.htm" target="_blank">新型冠状病毒感染的肺炎防控方案（第二版）及解读</a>
+          
+            <a href="//news.youth.cn/gn/202001/t20200123_12176607.htm" target="_blank">疫情来袭，这些误区你中招了吗？</a>
+          
+            <a href="//news.youth.cn/gn/202001/t20200123_12176565.htm" target="_blank">陈里出任东中西部区域发展和改革研究院副院长</a>
+          
+            <a href="//news.youth.cn/gn/202001/t20200123_12176533.htm" target="_blank">国家卫健委发布新型冠状病毒感染的肺炎防控方案第二版</a>
+          
+        </p>
+      </div>
+      <div id="demo2" >
+     
+      </div>
+    </div>
+</div>
+            <script type="text/javascript">
+            var demo = document.getElementById("demo");
+            var demo1 = document.getElementById("demo1");
+            var demo2 = document.getElementById("demo2");
+            demo2.innerHTML=document.getElementById("demo1").innerHTML;
+            function Marquee(){
+            if(demo.scrollLeft-demo2.offsetWidth>=0){
+             demo.scrollLeft-=demo1.offsetWidth;
+            }
+            else{
+             demo.scrollLeft++;
+            }
+            }
+            var myvar=setInterval(Marquee,30);
+            $("#demo").mouseout(function(){
+                myvar=setInterval(Marquee,30);
+                })
+            $("#demo").mouseover(function(){
+                clearInterval(myvar);
+                })
+            </script>
+        </div>
+    </div>
+    
+ 
+     <!--青年头条-->
+  <!--青网首页大头条、要闻、头条、独家版块区块start-->
+     <style>
+.new-list li
+{
+    width: 100%;
+    float: left;
+    white-space: normal;
+    line-height: normal;
+    padding-bottom: 12px;
+}
+.new-list li a
+{
+    line-height: 20px;
+}
+</style>
+
+<div class="youth-hotline">
+<div class="youth_tt" style="float:left">
+
+           <div class=TRS_Editor><h1 style="font-size: 30px"><a target="_blank" href="http://news.youth.cn/"><font color="#ff0000">新春 习近平这几个拜年瞬间暖人心扉</font></a></h1>
+<h1><font color="#ff0000" style="font-size: 10.5pt"><font color="#ff0000"><a target="_blank" href="http://news.youth.cn/sz/202001/t20200123_12176403.htm"><font color="#ff0000">循着习近平总书记足迹感受新时代新年味</font></a> <a target="_blank" href="http://news.youth.cn/sz/202001/t20200123_12176628.htm"><font color="#ff0000">感悟历史性跨越</font></a> <a target="_blank" href="http://news.youth.cn/sz/202001/t20200123_12176626.htm"><font color="#ff0000">谱写好中国梦的云南篇章</font></a></font></font></h1></div>
+     
+</div>
+<div class="tt_banner">
+     
+         <a href='http://news.cyol.com/node_67071.htm' target="_blank">
+           <img src="http://www.youth.cn/ggw/xbone/201909/W020190922453900530867.png" alt="{953CF5FC-EBAD-51BF-F7A3-75D61F752789}.png" width='240' height='60' border='0'/>
+          </a>
+     
+</div>
+</div>
+     <!--青年头条-->
+    <div class="youth-con">
+         <!--20170828新版首页文字要闻-->
+        <div class="left-con floleft">
+            <ul class="new-list">
+              
+                    <div class=TRS_Editor><li style="padding-top: 5px"><a target="_blank" href="http://news.youth.cn/sz/202001/t20200122_12175924.htm"><strong>中央领导同志看望老同志</strong></a> <a target="_blank" href="http://news.youth.cn/sz/202001/t20200122_12175853.htm"><strong>听习近平讲中国传统文化</strong></a></li>
+<li><a target="_blank" href="http://news.youth.cn/sz/202001/t20200122_12176149.htm">习近平分别同法国总统马克龙、</a><a target="_blank" href="http://news.youth.cn/sz/202001/t20200122_12176150.htm">德国总理默克尔通电话</a></li>
+<li><a target="_blank" href="http://news.youth.cn/sz/202001/t20200122_12176049.htm">习近平访问缅甸25小时：中缅共命运 胞波情谊长</a></li>
+<li><a target="_blank" href="http://news.youth.cn/gn/202001/t20200122_12176077.htm">十三届全国人大三次会议、全国政协十三届三次会议</a></li>
+<li><a target="_blank" href="http://news.youth.cn/zt/zsy/sjjszqh/">学习贯彻十九届四中全会精神</a> <a target="_blank" href="http://news.youth.cn/zt/bwcxljsm/">不忘初心、牢记使命</a></li></div>
+                  
+
+                   
+                      <div class=TRS_Editor><li style="padding-bottom: 5px"><strong><img width="56" height="28" style="border-right-width: 0px; width: 56px; margin-bottom: 2px; border-top-width: 0px; border-bottom-width: 0px; height: 30px; vertical-align: middle; border-left-width: 0px" alt="" ignore="1" complete="complete" src="http://www.youth.cn/images/20160918QTTlogo1.png" /><a target="_blank" href="http://news.youth.cn/gn/202001/t20200123_12176271.htm">团中央直属机关召开第二批主题教育总结会</a></strong></li>
+<li><a target="_blank" href="http://news.youth.cn/zt/2020xczjc/"><img width="56" height="28" style="border-right-width: 0px; width: 100px; padding-right: 5px; margin-bottom: 2px; border-top-width: 0px; border-bottom-width: 0px; height: 22px; vertical-align: middle; border-left-width: 0px" alt="" ignore="1" complete="complete" src="http://news.youth.cn/images/20200110_youth_xczjc_img_3.png" /></a> <a target="_blank" href="http://news.youth.cn/sz/202001/t20200123_12176339.htm">移民村迎回年轻人</a> <a target="_blank" href="http://news.youth.cn/gn/202001/t20200123_12176243.htm">快递小哥的回家路</a></li>
+<li><a target="_blank" href="http://news.youth.cn/gn/202001/t20200123_12176217.htm">《新型冠状病毒感染的肺炎防控方案(第二版)》发布</a></li>
+<li><a target="_blank" href="http://news.youth.cn/sh/202001/t20200123_12176437.htm">国家卫健委公布新型冠状病毒肺炎死亡病例病情介绍</a></li>
+<li><a target="_blank" href="http://news.youth.cn/gn/202001/t20200123_12176399.htm">关注！新型冠状病毒肺炎疫情图 截至1月23日8:30</a></li>
+<li><a target="_blank" href="http://qclz.youth.cn/zgmjxz/"><font color="#ff0000">"中国梦"践行者|</font></a><a target="_blank" href="http://qclz.youth.cn/znl/202001/t20200123_12176547.htm"><font color="#ff0000">基层民警梁国伟：守护万千回家路</font></a></li>
+<li><a target="_blank" href="http://news.youth.cn/jsxw/202001/t20200123_12176306.htm"><strong>世卫组织：中国及时分享新型冠状病毒疫情信息</strong></a></li>
+<li><a target="_blank" href="http://news.youth.cn/gj/202001/t20200123_12176280.htm">英议会上院通过法案 扫除“脱欧”所有法律障碍</a></li>
+<li><a target="_blank" href="http://news.youth.cn/gj/202001/t20200123_12176203.htm">澳研究人员正利用一技术研制新型冠状病毒疫苗</a></li></div>
+                   
+   
+                      <div class=TRS_Editor><li style="padding-bottom: 5px"><font color="#ff0000" style="font-size: 10.5pt"><img width="56" height="28" style="border-right-width: 0px; width: 56px; margin-bottom: 2px; border-top-width: 0px; border-bottom-width: 0px; height: 30px; vertical-align: middle; border-left-width: 0px" alt="" ignore="1" complete="complete" src="//www.youth.cn/images/2016qwdjlogo1.png" /><strong><a target="_blank" href="http://news.youth.cn/sh/202001/t20200123_12176234.htm">返乡途中收到“动员令” 她成最美逆行者</a></strong></font></li>
+<li><a target="_blank" href="http://news.youth.cn/gn/202001/t20200123_12176219.htm">23日10时起 武汉市机场、火车站离汉通道暂时关闭</a></li>
+<li><a target="_blank" href="http://news.youth.cn/sh/202001/t20200123_12176675.htm">民航局：削减涉武汉航班</a> <a target="_blank" href="http://news.youth.cn/sh/202001/t20200123_12176544.htm">澳门取消春节期间庆祝活动</a></li>
+<li><a target="_blank" href="http://news.youth.cn/sh/202001/t20200123_12176524.htm">最高罚500万!上海发布口罩等疫情防治商品价格告诫函</a></li>
+<li><a target="_blank" href="http://news.youth.cn/sz/202001/t20200123_12176417.htm">一碗牛肉汤里看民生 互联网让田间地头直通小餐馆</a></li></div>
+                   
+  <!--青网首页大头条、要闻、头条、独家版块区块end-->
+  <!--青网首页网评区块start-->
+     
+          <li><font color="#ff0000" style="font-size: 10.5pt"><font style="font-size: 10.5pt"><img width="53" height="30" style="border-left-width: 0px; margin-bottom: 0px; height: 30px; border-right-width: 0px; width: 53px; vertical-align: middle; border-bottom-width: 0px; border-top-width: 0px" alt="" ignore="1" complete="complete" src='http://www.youth.cn/zqwpxb/xbtp/202001/W020200122572954204216.png' />
+<strong> <a href="http://pinglun.youth.cn/wztt/202001/t20200122_12175990.htm" target="_blank">沙画 | 春运回家的暖心记忆</a></strong></font></font></li>
+ 
+
+ 
+          <li>
+                  <a href="http://pinglun.youth.cn/wztt/202001/t20200122_12176199.htm" target="_blank">[中青融评]市民穿睡衣上街被曝光是权力的“越位”</a>
+         </li>
+ 
+          <li>
+                  <a href="http://pinglun.youth.cn/wztt/202001/t20200122_12175939.htm" target="_blank">[中青时评]“地震不跑喊停列车”的背后是责任与担当</a>
+         </li>
+ 
+          <li>
+                  <a href="http://pinglun.youth.cn/wztt/202001/t20200122_12175900.htm" target="_blank">[热点评论]不论生死不计报酬不让逆行者孤单前行</a>
+         </li>
+ 
+          <li>
+                  <a href="http://pinglun.youth.cn/ll/202001/t20200123_12176345.htm" target="_blank">[理论观察]持续推动全党不忘初心牢记使命</a>
+         </li>
+ 
+  <!--青网首页网评区块end-->
+  
+        </ul>
+        </div>
+         <!--20170828新版首页文字要闻-->
+        <div class="right-con floright">
+            <div id="focus" class="jsArea floleft ">
+                  <div class="slidContrlDiv">
+                    <ol>
+                      <li class="current"><a href="javascript:void(0)"></a></li>
+                      <li><a href="javascript:void(0)"></a></li>
+                      <li><a href="javascript:void(0)"></a></li>
+                      <li><a href="javascript:void(0)"></a></li>
+                    </ol>
+                  </div>
+                  <div class="slidImgDiv">
+                    <ul>
+                      
+                        <li>
+                          <a  target="_blank"  href="//picture.youth.cn/qtdb/202001/t20200123_12176223.htm" title="循着习近平总书记足迹感受新时代新年味"><img src="//picture.youth.cn/qtdb/202001/W020200123245992460753.png" width="620" height="370" /></a>
+                          <div class="txt">
+                              <a  target="_blank"  href="//picture.youth.cn/qtdb/202001/t20200123_12176223.htm" title="循着习近平总书记足迹感受新时代新年味">循着习近平总书记足迹感受新时代新年味</a>
+                          </div>
+                          <span class="marking"></span> 
+                        </li>
+                       
+                        <li>
+                          <a  target="_blank"  href="//picture.youth.cn/qtdb/202001/t20200123_12176220.htm" title="李克强在青海考察"><img src="//picture.youth.cn/qtdb/202001/W020200123086786869118.png" width="620" height="370" /></a>
+                          <div class="txt">
+                              <a  target="_blank"  href="//picture.youth.cn/qtdb/202001/t20200123_12176220.htm" title="李克强在青海考察">李克强在青海考察</a>
+                          </div>
+                          <span class="marking"></span> 
+                        </li>
+                       
+                        <li>
+                          <a  target="_blank"  href="//picture.youth.cn/qtdb/202001/t20200123_12176224.htm" title="新型冠状病毒感染的肺炎已致湖北17人死亡"><img src="//picture.youth.cn/qtdb/202001/W020200123151058557791.png" width="620" height="370" /></a>
+                          <div class="txt">
+                              <a  target="_blank"  href="//picture.youth.cn/qtdb/202001/t20200123_12176224.htm" title="新型冠状病毒感染的肺炎已致湖北17人死亡">新型冠状病毒感染的肺炎已致湖北17人死亡</a>
+                          </div>
+                          <span class="marking"></span> 
+                        </li>
+                       
+                        <li>
+                          <a  target="_blank"  href="http://picture.youth.cn/qtdb/202001/t20200123_12176476.htm" title="在一线抗击肺炎疫情的医务工作者"><img src="http://www.youth.cn/tptt/202001/W020200123362941087409.jpg" width="620" height="370" /></a>
+                          <div class="txt">
+                              <a  target="_blank"  href="http://picture.youth.cn/qtdb/202001/t20200123_12176476.htm" title="在一线抗击肺炎疫情的医务工作者">在一线抗击肺炎疫情的医务工作者</a>
+                          </div>
+                          <span class="marking"></span> 
+                        </li>
+                       
+                    </ul>
+                  </div>
+        </div>
+           
+            <div style="width: 620px; float: left;">
+<div class="youth-channel">
+        <ul class="channel-n">
+ <li class="hannel-n02 ysd04 mr4 mb4"><a href="//qnzs.youth.cn/" target="_blank"><img src="//news.youth.cn/images/20191231youth_qnzs_logo_new.png" /></a></li>
+            <li class="hannel-n02 ysd03 mr4  mb4"><a href="https://twbk.youth.cn/index/user/login" target="_blank"><img src="//news.youth.cn/images/20191231youth_twbk_logo.png" /></a></li>
+
+            <li class="hannel-n02 ysd02 mr4 mb4"><a href="//news.cyol.com/xwzt/node_64874.htm" target="_blank"><img src="./images/20190918ggicon02.png" /></a></li>
+            <li class="hannel-n02 ysd03 mb4" style="width:100px"><a href="//bingdian.youth.cn/" target="_blank"><img src="//news.youth.cn/images/20190922bingdian_logo.png" /></a></li>
+            <li class="hannel-n02 ysd03 mr4 mb4"><a href="//news.cyol.com/xwzt/node_63483.htm" target="_blank"><img src="//news.youth.cn/images/20190918ggicon04_new.png" /></a></li>
+            <li class="hannel-n02 ysd04 mb4"><a href="//news.youth.cn/zt/2019daj/" target="_blank"><img src="./images/20190918ggicon05.png" /></a></li>
+    </ul>
+    <ul class="channel-n">
+        <li class="hannel-n03 ysd04 mr4 mb4"><a href="//v.cyol.com/node_61083.htm" target="_blank"><img src="./images/20190918ggicon06.png" /></a></li>
+            <li class="hannel-n04 ysd05 mr4 mb4"><a href="//v.youth.cn/qfx/" target="_blank"><img src="./images/20190918ggicon07.png" /></a></li>
+            <li class="hannel-n05 ysd03 mr4 mb4"><a href="//news.cyol.com/node_67036.htm" target="_blank"><img src="//news.youth.cn/images/20190923youth_qny_logo_new.png" /></a></li>
+   <li class="hannel-n05 ysd04 mr4 mb4"><a href="//v.cyol.com/node_59589.htm" target="_blank"><img src="//news.youth.cn/images/20190923youth_zghqn_logo.png" /></a></li>
+            
+    </ul>
+    <ul class="channel-n">
+        <li class="hannel-n01 ysd04 mb4"><a href="//news.cyol.com/node_67066.htm" target="_blank"><img src="./images/20190918ggicon09.png" /></a></li>
+            <li class="hannel-n02 ysd04 mr4 mb4"><a href="//feiyi.youth.cn/zt/wmszh/" target="_blank"><img src="./images/20190918ggicon10.png" /></a></li>
+            <li class="hannel-n02 ysd03 mb4"><a href="//news.youth.cn/zt/zgrdgs/" target="_blank"><img src="//news.youth.cn/images/20190925youth_zhongguoren_icon.png" /></a></li>
+            <li class="hannel-n02 ysd03 mr4 mb4"><a href="//edu.youth.cn/video/" target="_blank"><img src="./images/20190918ggicon12.png" /></a></li>
+            <li class="hannel-n02 ysd04 mb4"><a href="//v.youth.cn/sjyys/" target="_blank"><img src="./images/20190918ggicon13.png" /></a></li>
+    </ul>
+    </div>
+<div class="youth-tuijian">
+    <div class="tuijian-z">
+    <dl class="ws_img_n floleft" >
+    
+        
+         
+          <dt>
+              <a href='http://v.youth.cn/yw/202001/t20200123_12176458.htm' target="_blank">
+                            <img src="http://www.youth.cn/qnds/pic/202001/W020200123355350717036.jpg" alt="习近平2.jpg"  width="260" height="150"/>
+                  </a>
+        </dt>
+<dd></dd>
+        <font>
+          <img src="./images/20190918youthtj.png" />
+        </font>
+        <h3 >
+          <p>
+               <a href="http://v.youth.cn/yw/202001/t20200123_12176458.htm" target="_blank">习近平同法国总统通电话</a>
+         </p>
+        </h3>
+          
+
+      </dl>
+    </div>
+    <div class="tuijian-y">
+    <ul class="tuijian_list">
+         
+
+              <li>
+                 <span class="icon spt"></span>
+                  <a href="http://v.youth.cn/yw/202001/t20200120_12174206.htm" target="_blank">国家发展改革委：数据显示市场需求回暖</a>
+         </li>
+          
+
+              <li>
+                 <span class="icon spt"></span>
+                  <a href="http://v.youth.cn/yw/202001/t20200123_12176496.htm" target="_blank">国际机构负责人及多国政要恭贺新春</a>
+         </li>
+          
+
+              <li>
+                 <span class="icon spt"></span>
+                  <a href="http://v.youth.cn/yw/202001/t20200123_12176481.htm" target="_blank">喜迎新春 年味十足</a>
+         </li>
+          
+
+              <li>
+                 <span class="icon spt"></span>
+                  <a href="http://v.youth.cn/yw/202001/t20200120_12174213.htm" target="_blank">【新春走基层】高铁隧道里的防渗小分队</a>
+         </li>
+          
+
+              <li>
+                 <span class="icon spt"></span>
+                  <a href="http://v.youth.cn/yw/202001/t20200122_12175758.htm" target="_blank">英国"老鼠"告诉你 12生肖里为什么没有猫</a>
+         </li>
+          
+
+     
+  
+    </ul>
+    </div>
+    </div>
+        </div>
+
+        </div>
+     </div>
+<!--看过来start-->
+
+     <div class="youth-look">
+    <span>
+        <img src="//www.youth.cn/images/20190918youthkgl.png" />
+        </span>
+        <div class="look-con">
+    <div class="fiveyear">
+        <div class='silder-box3 silder-box-3'>
+            <div class='silder'>
+                <ul>
+ 
+                    <li>
+                         <a href='//news.youth.cn/jsxw/202001/t20200117_12171535.htm' target="_blank">
+                            <img src="//news.youth.cn/jsxw/202001/W020200118298158915126.jpg" alt="纪念南京长江大桥开工60周年.jpg" width='285' height='188' border='0'/>
+                           </a>
+                        <p>
+<a href="//news.youth.cn/jsxw/202001/t20200117_12171535.htm" target="_blank" style='color: #333;'>纪念南京长江大桥开工60周年 | 中国有故事</a>
+</p>
+                    </li>
+  
+                    <li>
+                         <a href='http://news.youth.cn/sz/202001/t20200109_12165214.htm' target="_blank">
+                            <img src="http://www.youth.cn/kgl/202001/W020200110289045279909.jpg" alt="原声再现雷锋“忆苦思甜”，“苦孩子”怎么成青少年偶像？.jpg" width='285' height='188' border='0'/>
+                           </a>
+                        <p>
+<a href="http://news.youth.cn/sz/202001/t20200109_12165214.htm" target="_blank" style='color: #333;'>原声再现雷锋"忆苦思甜","苦孩子"怎么成青少年偶像？</a>
+</p>
+                    </li>
+  
+                    <li>
+                         <a href='//news.youth.cn/sz/202001/t20200102_12159214.htm' target="_blank">
+                            <img src="//news.youth.cn/sz/202001/W020200102561067185522.jpg" alt="中国有故事.jpg" width='285' height='188' border='0'/>
+                           </a>
+                        <p>
+<a href="//news.youth.cn/sz/202001/t20200102_12159214.htm" target="_blank" style='color: #333;'>谁不想当“孙大圣”？| 中国有故事</a>
+</p>
+                    </li>
+  
+                    <li>
+                         <a href='http://news.youth.cn/gn/201912/t20191231_12158377.htm' target="_blank">
+                            <img src="http://www.youth.cn/kgl/202001/W020200101317830906625.jpg" alt="自主研制直升机再也不是梦！.jpg" width='285' height='188' border='0'/>
+                           </a>
+                        <p>
+<a href="http://news.youth.cn/gn/201912/t20191231_12158377.htm" target="_blank" style='color: #333;'>青春图志70年|自主研制直升机再也不是梦！</a>
+</p>
+                    </li>
+  
+                    <li>
+                         <a href='http://qnzs.youth.cn/zt/byyxzg/' target="_blank">
+                            <img src="http://www.youth.cn/kgl/201912/W020191225517669182383.png" alt="QQ截图20191225142108.png" width='285' height='188' border='0'/>
+                           </a>
+                        <p>
+<a href="http://qnzs.youth.cn/zt/byyxzg/" target="_blank" style='color: #333;'>国潮青年</a>
+</p>
+                    </li>
+  
+                    <li>
+                         <a href='//news.youth.cn/gn/201912/t20191219_12147827.htm' target="_blank">
+                            <img src="//news.youth.cn/gn/201912/W020191219734203576732.png" alt="QQ截图20191219202240.png" width='285' height='188' border='0'/>
+                           </a>
+                        <p>
+<a href="//news.youth.cn/gn/201912/t20191219_12147827.htm" target="_blank" style='color: #333;'>《中国有故事》第14集：国宝又“活”了</a>
+</p>
+                    </li>
+  
+                    <li>
+                         <a href='//news.youth.cn/jsxw/201912/t20191207_12136980.htm' target="_blank">
+                            <img src="//news.youth.cn/jsxw/201912/W020191207321646265730.jpg" alt="“糖丸”的记忆.jpg" width='285' height='188' border='0'/>
+                           </a>
+                        <p>
+<a href="//news.youth.cn/jsxw/201912/t20191207_12136980.htm" target="_blank" style='color: #333;'>《中国有故事》：“糖丸”的记忆</a>
+</p>
+                    </li>
+  
+                    <li>
+                         <a href='http://news.youth.cn/jsxw/201912/t20191207_12136964.htm' target="_blank">
+                            <img src="http://www.youth.cn/kgl/201912/W020191207314378156236.jpg" alt="探访海上绿色能源通道.jpg" width='285' height='188' border='0'/>
+                           </a>
+                        <p>
+<a href="http://news.youth.cn/jsxw/201912/t20191207_12136964.htm" target="_blank" style='color: #333;'>风从海上来，跟着盛一伦 探访海上绿色能源通道</a>
+</p>
+                    </li>
+  
+
+           
+                </ul>
+            </div>
+            <div class='silder-button3 btl'></div>
+            <div class='silder-button3 btr'></div>
+        </div>
+    </div>
+</div>
+</div>
+<script type="text/javascript" src="//news.youth.cn/images/20171015mySystem.js"></script>
+<script>
+ $('.silder-box-3').mySilder({
+        width:200,
+        height:210,
+        direction:'x',
+        few:1,
+        showFew:4,
+        clearance:18,
+        silderMode:'swing' ,
+        timeGap:700,
+        auto:true,
+        autoTime:7,
+        buttonPre:'.silder-button3.btl',//上一个，按钮
+        buttonNext:'.silder-button3.btr',//下一个，按钮
+        jz:true
+    });
+
+</script>
+<!--看过来end-->
+    <!--第二屏广告位-->
+    <div class="youth-ggw gao">
+          <div class="youth_ggw5">
+                <ul>
+                      
+                       
+                        <li style="text-align:left;">
+                             <a href='//news.youth.cn/zt/bwcxljsm/' target="_blank">
+                            <img src="http://www.youth.cn/ggw/dyp_ggw/201908/W020190801342821376554.jpg" alt="不忘初心 牢记使命350-100.jpg" width='350' height='100' border='0'/>
+                           </a>
+                       </li>
+                      
+                                          
+                        <li style="text-align:right;float:right">
+                        <a href='http://bdxt.95590.cn/bdmobile/view/pc/index.html' target="_blank">
+                           <img src="http://www.youth.cn/ggw/dyp_ggw/201911/W020191118366565575493.png" alt="04b9f5b544d1084bc8796ad692e324b.png" width='350' height='100' border='0'/>
+                        </a>
+                        </li>
+                      
+
+                     
+
+                </ul>
+      </div>   
+          <div class="youth_ggw6">
+                 
+                     <a href='http://news.youth.cn/zt/2019daj/' target="_blank">
+                         <img src="http://www.youth.cn/ggw/dyp_ggw/dypggwxt/201909/W020190902631548092510.jpg" alt="首页图片专题.jpg" width='240' height='100' border='0'/>         
+                     </a>      
+                   
+            </div>     
+       </div>   
+    <!--第二屏广告位-->
+    <div class="youth-left">
+<!--原财经start-->
+   <div class="left-copy floleft" style="display:none">
+            <div     class="youth-nav">
+        <ul class="nav-name">
+         <li><a href="//www.gqt.org.cn/" target="_blank" style="display: inline;"><span class="icon tuanh"></span>共青团</a> &middot;<a href="//agzy.youth.cn/" target="_blank" style="display: inline;"> 爱国主义</a></li>
+        </ul>
+        <div class="more"> <a href="//www.gqt.org.cn/" target="_blank"></a></div>
+        <ul class="nav-second">
+            <li>
+                <a href="//xibu.youth.cn/" target="_blank">西部计划</a>
+            </li>
+        </ul>
+    </div>
+
+        <ul class="new-list">
+         
+              
+                <li><P> <a href="http://qnzz.youth.cn/qckc/202001/t20200123_12176370.htm" target="_blank">沈铁“小水滴”温暖春运记忆</a></P></li>
+              
+              
+                <li> <a href="http://qnzz.youth.cn/qckc/202001/t20200123_12176364.htm" target="_blank">广州启创：驻校社工防患未然</a></li>
+              
+                <li> <a href="http://qnzz.youth.cn/qckc/202001/t20200123_12176377.htm" target="_blank">志愿服务促进青年的社会融入与发展</a></li>
+              
+                <li> <a href="http://qnzz.youth.cn/qckc/202001/t20200123_12176410.htm" target="_blank">上海市人大代表建议:做好低龄留学生思想引领</a></li>
+              
+                <li> <a href="http://qnzz.youth.cn/qckc/202001/t20200122_12175629.htm" target="_blank">湖南大学生组团报道省两会</a></li>
+              
+             
+          
+              
+                <li><P> <a href="http://agzy.youth.cn/qsnag/zxbd/202001/t20200112_12167296.htm" target="_blank">日均执勤16小时 武警官兵守护旅客返乡路</a></P></li>
+              
+              
+                <li> <a href="http://agzy.youth.cn/qsnag/zxbd/202001/t20200104_12160697.htm" target="_blank">二十三户村民 凿出幸福路</a></li>
+              
+                <li> <a href="http://agzy.youth.cn/qsnag/zxbd/202001/t20200104_12160696.htm" target="_blank">武警战士打响新年训练第一枪</a></li>
+              
+                <li> <a href="http://agzy.youth.cn/qsnag/zxbd/202001/t20200104_12160695.htm" target="_blank">万众一心加油干 越是艰险越向前</a></li>
+              
+                <li> <a href="http://agzy.youth.cn/qsnag/zxbd/202001/t20200104_12160693.htm" target="_blank">新年度，一起为连队画张“路线图”</a></li>
+              
+             
+        
+        </ul>
+        </div>
+<!--end-->
+
+<div class="left-copy floleft">
+            <div class="youth-nav">
+        <ul class="nav-name-tab">
+         <li class="cljysxz" onmouseover="selectTag('gqt_qnzs1','gqt_qnzs','gqt','gqt1')" id="gqt1"><a href="//www.gqt.org.cn/" target="_blank"><span class="icon tuanh"></span>共青团</a></li>
+         <li class="cljys" onmouseover="selectTag('gqt_qnzs2','gqt_qnzs','gqt','gqt2')" id="gqt2"><a href="//qnzs.youth.cn/" target="_blank">青年之声</a></li>
+        </ul>
+         <div class="more"> <a href="//www.gqt.org.cn/" target="_blank"></a></div>
+        <ul class="nav-second">
+           <li style="    width: 35px;">
+            <a href="//agzy.youth.cn/" target="_blank">爱国</a>
+            </li>
+            <li style="    width: 35px;">
+                
+                <a href="//qclz.youth.cn/zgmjxz/" target="_blank">励志</a>
+            </li>
+
+        </ul>
+      
+    </div>
+  
+    <div class="youth-k" id="gqt_qnzs1" style="display:block;">
+          
+          
+             <div class="hotpic_box floleft"> 
+                    <span>
+                             <a href='http://qnzz.youth.cn/qckc/202001/t20200123_12176368.htm' target="_blank">
+                       <img src="http://www.youth.cn/gqt/gqttp/202001/W020200123329951044855.png" alt="QQ图片20200123090857.png" width='350' height='172' border='0'/>
+                        </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="http://qnzz.youth.cn/qckc/202001/t20200123_12176368.htm" target="_blank">为思想补钙 为成长加油</a></font>
+              </div>
+              
+        <ul class="new-list">
+           
+              
+                <li><P> <a href="http://qnzz.youth.cn/qckc/202001/t20200123_12176370.htm" target="_blank">沈铁“小水滴”温暖春运记忆</a></P></li>
+              
+              
+                <li> <a href="http://qnzz.youth.cn/qckc/202001/t20200123_12176364.htm" target="_blank">广州启创：驻校社工防患未然</a></li>
+              
+                <li> <a href="http://qnzz.youth.cn/qckc/202001/t20200123_12176377.htm" target="_blank">志愿服务促进青年的社会融入与发展</a></li>
+              
+                <li> <a href="http://qnzz.youth.cn/qckc/202001/t20200123_12176410.htm" target="_blank">上海市人大代表建议:做好低龄留学生思想引领</a></li>
+              
+            
+        </ul>
+        </div>
+
+ 
+        <div class="youth-k" id="gqt_qnzs2" style="display: none;">
+             
+             <div class="hotpic_box floleft"> 
+                    <span>
+                             <a href='http://qnzs.youth.cn/tsxq/202001/t20200123_12176396.htm' target="_blank">
+                       <img src="http://www.youth.cn/qclz/pic/202001/W020200123338188616980.jpg" alt="1.jpg" width='350' height='172' border='0'/>
+                        </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="http://qnzs.youth.cn/tsxq/202001/t20200123_12176396.htm" target="_blank">他们的春节坚守，为了千家万户的平安</a></font>
+              </div>
+              
+        <ul class="new-list">
+           
+              
+                <li><P> <a href="http://qnzs.youth.cn/tsxq/202001/t20200123_12176411.htm" target="_blank">2019年数字记忆：这些突破暖心提气</a></P></li>
+              
+              
+                <li> <a href="http://qnzs.youth.cn/tsxq/202001/t20200123_12176378.htm" target="_blank">为都市留住乡愁 探索大城市乡村振兴新路子</a></li>
+              
+                <li> <a href="http://qnzs.youth.cn/tsxq/202001/t20200123_12176373.htm" target="_blank">乘坐快递员春运专列 00后快递小哥的春节回家路</a></li>
+              
+                <li> <a href="http://qnzs.youth.cn/tsxq/202001/t20200123_12176412.htm" target="_blank">73.6%受访青年认为了解家乡地名有益理解文化民俗</a></li>
+              
+            
+          
+        </ul>
+        </div>
+
+        </div>
+<!--军事体育-->
+<div class="left-copy floleft">
+            <div class="youth-nav">
+        <ul class="nav-name-tab">
+         <li class="cljysxz" onmouseover="selectTag('jsty1','jsty','js','js1')" id="js1"><a href="//news.youth.cn/js/" target="_blank">军事</a></li>
+         <li class="cljys" onmouseover="selectTag('jsty2','jsty','js','js2')" id="js2"><a href="//news.youth.cn/zc/" target="_blank">体育</a></li>
+        </ul>
+        <div class="more"> <a href="//news.youth.cn/jslm/" target="_blank"></a></div>
+      
+    </div>
+    <!--军事-->
+    <div class="youth-k" id="jsty1" style="display:block;">
+          
+          
+             <div class="hotpic_box floleft"> 
+                    <span>
+                             <a href='//news.youth.cn/jsxw/202001/t20200123_12176254.htm' target="_blank">
+                       <img src="//news.youth.cn/jsxw/202001/W020200123264049296170.jpg" alt="守护天路.jpg" width='350' height='172' border='0'/>
+                        </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="//news.youth.cn/jsxw/202001/t20200123_12176254.htm" target="_blank">守护天路</a></font>
+              </div>
+              
+        <ul class="new-list">
+           
+              
+                <li><P> <a href="//news.youth.cn/jsxw/202001/t20200123_12176253.htm" target="_blank">美军在伊拉克去留两难</a></P></li>
+              
+              
+                <li> <a href="//news.youth.cn/jsxw/202001/t20200123_12176252.htm" target="_blank">印军战区体制改革举步维艰</a></li>
+              
+                <li> <a href="//news.youth.cn/js/202001/t20200122_12175541.htm" target="_blank">2020年女兵征集工作全面展开 年龄放宽至23周岁</a></li>
+              
+                <li> <a href="//news.youth.cn/js/202001/t20200122_12175539.htm" target="_blank">三部门向广大官兵和优抚对象致慰问信</a></li>
+              
+            
+        </ul>
+        </div>
+    <!--军事--> 
+    <!--体育-->
+        <div class="youth-k" id="jsty2" style="display: none;">
+             
+             <div class="hotpic_box floleft"> 
+                    <span>
+                             <a href='http://picture.youth.cn/qtdb/202001/t20200123_12176320.htm' target="_blank">
+                       <img src="http://www.youth.cn/ty/tytp/202001/W020200123294833947881.jpg" alt="自由式滑雪女子大跳台：谷爱凌夺冠.jpg" width='350' height='172' border='0'/>
+                        </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="http://picture.youth.cn/qtdb/202001/t20200123_12176320.htm" target="_blank">自由式滑雪女子大跳台：谷爱凌夺冠</a></font>
+              </div>
+              
+        <ul class="new-list">
+           
+              
+                <li><P> <a href="//news.youth.cn/zc/202001/t20200122_12175533.htm" target="_blank">改变的不只是孙杨 中国游泳队新年展现积极状</a></P></li>
+              
+              
+                <li> <a href="//news.youth.cn/jsxw/202001/t20200121_12174531.htm" target="_blank">冬训上强度 国足要“从羊变成狼”</a></li>
+              
+                <li> <a href="//news.youth.cn/zc/202001/t20200120_12173737.htm" target="_blank">英超综合：强不胜弱 狼队突围</a></li>
+              
+                <li> <a href="//news.youth.cn/zc/202001/t20200120_12173736.htm" target="_blank">冬青奥会决出奥运序列首枚北欧两项女子金牌</a></li>
+              
+            
+          
+        </ul>
+        </div>
+     <!--体育-->
+        </div>
+    <!--励志版块-->
+     
+        <!--第三屏730*85广告位-->
+        <div class="youth-ggw" style=" margin-top: 10px;">
+<!--2019-6-16zjb-->
+       
+          <script type="text/javascript" src="//pb1.qujishu.com/site/resource/8ut2u3.js?fa=sgbzzxg" ignoreapd="1"></script>
+
+       
+ 
+  
+        </div>
+         <!--第三屏730*85广告位-->
+     <!---原共青团-爱国start-->
+    <div class="left-copy floleft">
+            <div     class="youth-nav">
+        <ul class="nav-name">
+         <li class="blue"><a href="//edu.youth.cn/" target="_blank" style="display: inline;">教育</a> &middot; <a href="//txs.youth.cn/sxx/public/login" target="_blank" style="display: inline;">校通社</a></li>
+        </ul>
+        <div class="more"> <a href="//edu.youth.cn/" target="_blank"></a></div>
+    </div>
+        
+             <div class="hotpic_box floleft"> 
+                    <span>
+                         <a href='//edu.youth.cn/jyzx/jyxw/202001/t20200123_12176391.htm' target="_blank">
+                       <img src="//edu.youth.cn/jyzx/jyxw/202001/W020200123325801936888.jpg" width='350' height='172' border='0'/>
+                      </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="//edu.youth.cn/jyzx/jyxw/202001/t20200123_12176391.htm" target="_blank">职业教育发展驶入“快车道”</a></font>
+              </div>
+            
+       
+        <ul class="new-list">
+           
+              
+                <li><P> <a href="//edu.youth.cn/jyzx/jyxw/202001/t20200123_12176400.htm" target="_blank">90后、00后已经被这些出行新亮点“种草”了</a></P></li>
+              
+              
+                <li> <a href="//edu.youth.cn/jyzx/jyxw/202001/t20200123_12176384.htm" target="_blank">辅导员布置特殊寒假作业：亲手为父母制作暖心红包</a></li>
+              
+                <li> <a href="//edu.youth.cn/jyzx/jyxw/202001/t20200123_12176366.htm" target="_blank">女兵征集工作全面展开 年龄放宽至二十三周岁</a></li>
+              
+                <li> <a href="//edu.youth.cn/jyzx/jyxw/202001/t20200123_12176367.htm" target="_blank">武汉市教育局：致全市中小学师生及家长的一封信</a></li>
+              
+              
+         
+        </ul>
+        </div>
+
+
+
+
+<!--end-->
+        <div class="left-copy floleft">
+            <div     class="youth-nav">
+        <ul class="nav-name-tab">
+         <li  class="cljysxz" onMouseOver="selectTag('whyy1','whyy','wy','wy1')" id="wy1"><a href="//wenhua.youth.cn/" target="_blank">文化</a></li>
+         <li  class="cljys" onMouseOver="selectTag('whyy2','whyy','wy','wy2')" id="wy2"><a href="//book.youth.cn/" target="_blank">读书</a></li>
+        </ul>
+        <div class="more"> <a href="//wenhua.youth.cn/" target="_blank"></a></div>
+        <ul class="nav-second">
+            <li>
+                <a href="//qnzj.cyol.com" target="_blank">中国青年作家报</a>
+            </li>
+        </ul>
+    </div>
+    <!--文化-->
+    <div class="youth-k"  id="whyy1" >
+          
+             <div class="hotpic_box floleft"> 
+                    <span>
+                             <a href='//wenhua.youth.cn/whyw/202001/t20200121_12174836.htm' target="_blank">
+                       <img src="//wenhua.youth.cn/whyw/202001/W020200121353383249416.jpg" alt="9595286382753768610.jpg" width='350' height='172' border='0'/>
+                        </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="//wenhua.youth.cn/whyw/202001/t20200121_12174836.htm" target="_blank">中国美术馆奉上豪华艺术“年夜饭”</a></font>
+              </div>
+              
+        <ul class="new-list">
+           
+              
+                <li><P> <a href="//wenhua.youth.cn/whyw/202001/t20200121_12174857.htm" target="_blank">坚定文化自信 提升治理效能</a></P></li>
+              
+              
+                <li> <a href="//wenhua.youth.cn/whyw/202001/t20200121_12174854.htm" target="_blank">北京地坛、龙潭庙会大年初一开门迎客</a></li>
+              
+                <li> <a href="//wenhua.youth.cn/whyw/202001/t20200121_12174850.htm" target="_blank">2019年度出版业十件大事和30本好书公布</a></li>
+              
+                <li> <a href="//wenhua.youth.cn/whyw/202001/t20200121_12174845.htm" target="_blank">组图丨新年再添文化年礼，数百件明代文物亮相首博</a></li>
+              
+            
+          
+        </ul>
+        </div>
+    <!--文化--> 
+    <!--读书-->
+        <div class="youth-k"  id="whyy2" style="display:none;">
+         
+             <div class="hotpic_box floleft"> 
+                    <span>
+                        <a href='http://book.youth.cn/zx/202001/t20200122_12175858.htm' target="_blank">
+                       <img src="http://www.youth.cn/dsxb/dstp/202001/W020200122435114075182.jpg" alt="W020200122432197039096.jpg" width='350' height='172' border='0'/>
+                      </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="http://book.youth.cn/zx/202001/t20200122_12175858.htm" target="_blank">2020年国家图书馆年俗文化展红火亮相迎鼠年春节</a></font>
+              </div>
+              
+          
+        <ul class="new-list">
+         
+              
+                <li><P> <a href="//book.youth.cn/zx/202001/t20200122_12175917.htm" target="_blank">中国衣裳五千年来的“高级色”</a></P></li>
+              
+              
+                <li> <a href="//book.youth.cn/zx/202001/t20200122_12175916.htm" target="_blank">盛世修典，筑起民间文化长城</a></li>
+              
+                <li> <a href="//book.youth.cn/zx/202001/t20200122_12175913.htm" target="_blank">李纯一：宁慢爬 勿稍歇</a></li>
+              
+                <li> <a href="//book.youth.cn/zx/202001/t20200122_12175920.htm" target="_blank">夏河丹尼索瓦人研究：青藏高原人类史前推12万年</a></li>
+              
+            
+        </ul>
+        </div>
+     <!--书画-->
+        </div>
+<!--原地方新闻start-->
+  <div class="left-copy floleft">
+            <div     class="youth-nav">
+        <ul class="nav-name">
+         <li class="blue"><a href="//finance.youth.cn/" target="_blank"  style="    display: inline;">财经</a></li>
+        </ul>
+        <div class="more"> <a href="//finance.youth.cn/" target="_blank"></a></div>
+
+    </div>
+        <ul class="new-list">
+          
+             
+             <li><P> <a href="//finance.youth.cn/finance_gdxw/202001/t20200122_12175545.htm" target="_blank">2019年我国吸收外资实现逆势增长</a></P></li>
+             
+             
+             <li><a href="//finance.youth.cn/finance_gdxw/202001/t20200122_12175838.htm" target="_blank">成绩单瞩目、营商环境改善……地方两会透露这些信号</a></li>
+             
+             <li><a href="//finance.youth.cn/finance_cyxfrdjj/202001/t20200122_12175613.htm" target="_blank">春节市场供应准备就绪 生活必需品备货量增加20%以上</a></li>
+             
+             <li><a href="//finance.youth.cn/finance_cyxfrdjj/202001/t20200122_12175612.htm" target="_blank">集餐饮、游戏、文化体验于一身 传统商场上演变形记</a></li>
+             
+             <li><a href="//finance.youth.cn/finance_cyxfrdjj/202001/t20200122_12175609.htm" target="_blank">第二批国家"团购"药32个品种采购成功 100个产品中选</a></li>
+             
+             <li><a href="//finance.youth.cn/finance_zqjrrdjj/202001/t20200122_12175606.htm" target="_blank">提高证券市场违法成本 应进一步加大刑事处罚力度</a></li>
+             
+             <li><a href="//finance.youth.cn/finance_gdxw/202001/t20200122_12175605.htm" target="_blank">揭秘罗山东操纵市场案始末 公检法一线办案人员亲述</a></li>
+             
+             <li><a href="//finance.youth.cn/finance_money/202001/t20200122_12175570.htm" target="_blank">券商新春福利玩法多 理财产品预期年化收益率最高6.9</a></li>
+             
+             <li><a href="//finance.youth.cn/finance_money/202001/t20200122_12175567.htm" target="_blank">互金企业扎堆"拿"融资担保牌照 持牌"上岗"为大趋势</a></li>
+             
+             <li><a href="//finance.youth.cn/finance_money/202001/t20200122_12175565.htm" target="_blank">“宝宝”类理财产品 1月份平均收益率站稳2.6%</a></li>
+             
+           
+          
+        </ul>
+        </div>
+<!--end-->
+<!--原公益创业start-->
+        <div class="left-copy floleft">
+            <div class="youth-nav">
+        <ul class="nav-name-tab">
+ <li  class="cljysxz" onMouseOver="selectTag('ylfx1','ylfx','yf','yf1')" id="yf1" ><a href="//d.youth.cn/" target="_blank">发现</a></li>
+         <li  class="cljys"  onMouseOver="selectTag('ylfx2','ylfx','yf','yf2')" id="yf2"><a href="//fun.youth.cn/" target="_blank">娱乐</a></li>
+        
+        </ul>
+        <div class="more"> <a href="//d.youth.cn/" target="_blank"></a></div>
+<ul class="nav-second">
+            <li>
+                <a href="//qnck.youth.cn/" target="_blank">青年参考</a>
+            </li>
+        </ul>
+    </div>
+     <div class="youth-k" id="ylfx1">
+        
+             <div class="hotpic_box floleft"> 
+                    <span>
+                         <a href='//d.youth.cn/shrgch/202001/t20200123_12176291.htm' target="_blank">
+                       <img src="//d.youth.cn/shrgch/202001/W020200123274794984731.jpg" alt="1.jpg" width='350' height='172' border='0'/>
+                       </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="//d.youth.cn/shrgch/202001/t20200123_12176291.htm" target="_blank">吉隆坡新春年景装饰迎春节</a></font>
+              </div>
+          
+        <ul class="new-list">
+          
+              
+                <li><P> <a href="http://d.youth.cn/shrgch/202001/t20200123_12176278.htm" target="_blank">餐厅制作103米长披萨 为澳林火中消防员筹款</a></P></li>
+              
+              
+                <li> <a href="http://d.youth.cn/shrgch/202001/t20200123_12176281.htm" target="_blank">遗珠！法国一学院意外发现雨果亲笔书写的诗稿</a></li>
+              
+                <li> <a href="http://d.youth.cn/shrgch/202001/t20200123_12176286.htm" target="_blank">在外吃不完你会打包吗？日调查：打包者不足2成</a></li>
+              
+                <li> <a href="http://d.youth.cn/shrgch/202001/t20200123_12176275.htm" target="_blank">美公司欲派机器人进入泰坦尼克号 拆下无线电设备</a></li>
+              
+              
+        </ul>
+ 
+
+        </div>
+        
+        <div class="youth-k" id="ylfx2" style="display:none;">
+         
+             <div class="hotpic_box floleft"> 
+                    <span>
+                         <a href='http://fun.youth.cn/gnzx/202001/t20200123_12176266.htm' target="_blank">
+                       <img src="http://www.youth.cn/ssyl/pic/202001/W020200123279074887167.jpg" alt="未标题-2.jpg" width='350' height='172' border='0'/>
+                      </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="http://fun.youth.cn/gnzx/202001/t20200123_12176266.htm" target="_blank">“笑花cp”同框！潘玮柏晒与杨丞琳合照</a></font>
+              </div>
+          
+        <ul class="new-list">
+          
+              
+                <li><P> <a href="//fun.youth.cn/gnzx/202001/t20200123_12176282.htm" target="_blank">刘烨小女儿霓娜迎8岁生日 妻子晒出多张美照</a></P></li>
+              
+              
+                <li> <a href="//fun.youth.cn/gnzx/202001/t20200123_12176270.htm" target="_blank">赵雅芝幻影写真颇具未来感 着亮片外衣又美又飒</a></li>
+              
+                <li> <a href="//fun.youth.cn/gnzx/202001/t20200123_12176269.htm" target="_blank">李现称首次参加春晚很惊讶：没经历过 还蛮紧张</a></li>
+              
+                <li> <a href="//fun.youth.cn/gnzx/202001/t20200123_12176267.htm" target="_blank">48岁陶虹时尚大片曝光 露香肩秀天鹅颈又美又欲</a></li>
+              
+            
+        </ul>
+        
+    
+        </div>
+        
+        </div>
+
+<!--原公益创业end-->
+        <!--20180612去除体育和军事-->
+<!--原教育-校通社start-->
+           <div class="left-copy floleft">
+            <div     class="youth-nav">
+        <ul class="nav-name">
+         <li><a href="//df.youth.cn/" target="_blank">地方新闻</a></li>
+        </ul>
+        <div class="more"> <a href="//df.youth.cn/" target="_blank"></a></div>
+    </div>
+        <ul class="new-list">
+          
+              
+                <li><P> <a href="//df.youth.cn/dfzl/202001/t20200123_12176737.htm" target="_blank">黑龙江省首例新型肺炎感染者正全力救治</a></P></li>
+              
+              
+                <li> <a href="//df.youth.cn/dfzl/202001/t20200123_12176443.htm" target="_blank">黑龙江：严禁口罩等医用商品价格趁机涨价</a></li>
+              
+                <li> <a href="//df.youth.cn/dfyw/202001/t20200123_12176428.htm" target="_blank">武汉：市民戴口罩方可进入公共场所</a></li>
+              
+                <li> <a href="//df.youth.cn/dfyw/202001/t20200123_12176422.htm" target="_blank">海南建40多“候鸟”人才工作站</a></li>
+              
+                <li> <a href="//df.youth.cn/dfzl/202001/t20200123_12176421.htm" target="_blank">西安航空基地：积极开展“我们的中国梦 文化进万家</a></li>
+              
+              
+                <li><P> <a href="//df.youth.cn/dfyw/202001/t20200123_12176318.htm" target="_blank">北京铁警增派警力全力维护春运客流高峰秩序</a></P></li>
+              
+              
+                <li> <a href="//df.youth.cn/dfyw/202001/t20200123_12176314.htm" target="_blank">江西公布五个长江经济带生态环境销号情况</a></li>
+              
+                <li> <a href="//df.youth.cn/dfyw/202001/t20200123_12176311.htm" target="_blank">一名中越国际铁路守护者的最后一个春运</a></li>
+              
+                <li> <a href="//df.youth.cn/dfyw/202001/t20200123_12176308.htm" target="_blank">喝一瓶半啤酒开车追尾 重庆男子报警后被抓</a></li>
+              
+                <li> <a href="//df.youth.cn/dfyw/202001/t20200123_12176293.htm" target="_blank">海南出重拳：34家违规房企和13名骗购受处罚</a></li>
+              
+            
+        </ul>
+        </div>
+
+   
+<!--end-->
+        <!--娱乐发现-->
+     <div class="left-copy floleft">
+      <div  class="youth-nav">
+        <ul class="nav-name-tab">
+          <li  class="cljysxz" onMouseOver="selectTag('gylm1','gylm','gy','gy1')" id="gy1"><a href="//gy.youth.cn/" target="_blank">公益</a></li>
+          <li  class="cljys" onMouseOver="selectTag('gylm2','gylm','gy','gy2')" id="gy2"><a href="//cy.youth.cn/" target="_blank">创业</a></li>
+        </ul>
+        <div class="more"> <a href="//gy.youth.cn/" target="_blank"></a></div>
+        <ul class="nav-second">
+            <li>
+                <a href="//qnsx.cyol.com" target="_blank">青年时讯</a>
+            </li>
+          
+        </ul>
+    </div>
+    <div class="youth-k" id="gylm1">
+        
+             <div class="hotpic_box floleft"> 
+                    <span>
+                      <a href='http://gy.youth.cn/gytp/202001/t20200123_12176503.htm' target="_blank">
+                       <img src="http://www.youth.cn/gy/gytp/202001/W020200123371476928397.jpg" alt="2.jpg" width='350' height='172' border='0'/>
+                      </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="http://gy.youth.cn/gytp/202001/t20200123_12176503.htm" target="_blank">山西：返乡专车温暖回家路</a></font>
+              </div>
+              
+          
+        <ul class="new-list">
+          
+              
+                <li><P> <a href="//gy.youth.cn/gywz/202001/t20200123_12176440.htm" target="_blank">石家庄一女士成功捐献造血干细胞</a></P></li>
+              
+              
+                <li> <a href="//gy.youth.cn/gywz/202001/t20200123_12176448.htm" target="_blank">安徽金寨：“彩虹之家”里的温情陪伴</a></li>
+              
+                <li> <a href="//gy.youth.cn/gywz/202001/t20200123_12176434.htm" target="_blank">广铁7年“扶贫专列”帮助50万外来工返乡团圆</a></li>
+              
+                <li> <a href="//gy.youth.cn/gywz/202001/t20200123_12176473.htm" target="_blank">云南开展精准帮扶活动：就业送岗位 创业传技能</a></li>
+              
+            
+        </ul>
+        </div>
+ <div class="youth-k" id="gylm2" style="display:none">
+        
+             <div class="hotpic_box floleft"> 
+                    <span>
+                      <a href='//cy.youth.cn/dtxw_138178/202001/t20200123_12176497.htm' target="_blank">
+                       <img src="//cy.youth.cn/dtxw_138178/202001/W020200123368410808252.jpg" alt="春节礼物折射消费升级.jpg" width='350' height='172' border='0'/>
+                      </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="//cy.youth.cn/dtxw_138178/202001/t20200123_12176497.htm" target="_blank">春节礼物折射消费升级</a></font>
+              </div>
+              
+          
+        <ul class="new-list">
+          
+              
+                <li><P> <a href="//cy.youth.cn/dtxw_138178/202001/t20200123_12176502.htm" target="_blank">第826次出海——海关检疫员的职业性“漂流”</a></P></li>
+              
+              
+                <li> <a href="//cy.youth.cn/dtxw_138178/202001/t20200123_12176506.htm" target="_blank">免费培养农村订单定向医学生 这事国家已做十年</a></li>
+              
+                <li> <a href="//cy.youth.cn/dtxw_138178/202001/t20200123_12176546.htm" target="_blank">节前看消费:直播带货更多玩法激发消费热情</a></li>
+              
+                <li> <a href="//cy.youth.cn/dtxw_138178/202001/t20200123_12176534.htm" target="_blank">“铲屎官”春节回家 宠物托运寄养服务迎高峰</a></li>
+              
+            
+        </ul>
+        </div>
+        </div>
+</div>
+<!--end-->
+   
+    <div class="youth-right">
+        <div     class="youth-nav">
+        <ul class="nav-name">
+         <li class="blue"><a href="//www.youth.cn/zt/" target="_blank">专题</a></li>
+        </ul>
+        <div class="more"> <a href="//www.youth.cn/zt/" target="_blank"></a></div>
+    </div>
+      
+        <div class="hotpic_box2 floleft"> 
+              <span>
+                 <a href='http://edu.youth.cn/zthd/tyzt/2019bxzrx/' target="_blank">
+                 <img src="http://www.youth.cn/zt/pic/201908/W020190801340036072506.jpg" alt="保险责任行.jpg" width='240' height='172' border='0'/>
+                </a>
+               </span>
+              <div class="boxk"></div>
+              <font><a href="http://edu.youth.cn/zthd/tyzt/2019bxzrx/" target="_blank">2019中国大学生保险责任行</a></font>
+         </div>
+            <div class="youth-text"> <a href="http://edu.youth.cn/zthd/tyzt/2019bxzrx/" target="_blank" class="red"> [详情］</a></div>    
+        
+        <ul class="new-list">
+           
+              
+                 <li> <a href="http://news.youth.cn/zt/zsy/sjjszqh/" target="_blank"><p>学习贯彻十九届四中全会精神</p></a></li>
+              
+              
+                <li> <a href="http://news.youth.cn/zt/2020xczjc/" target="_blank">不负韶华 2020新春走基层</a></li>
+              
+                <li> <a href="http://news.youth.cn/zt/zsy/qzamhg20zn/" target="_blank">庆祝澳门回归20周年</a></li>
+              
+                <li> <a href="http://qnzz.youth.cn/kszt/zsymb/zmfdz/" target="_blank">致敬最美奋斗者</a></li>
+              
+                <li> <a href="http://news.youth.cn/zt/2019jbh_142690/" target="_blank">第二届中国国际进口博览会</a></li>
+              
+                <li> <a href="http://df.youth.cn/dfzthd/zsy/gmddjs/" target="_blank">美丽中国·网络媒体生态文明行</a></li>
+              
+                <li> <a href="http://news.youth.cn/zt/zsy/gmddjs/" target="_blank">新时代公民道德建设</a></li>
+              
+                <li> <a href="http://news.youth.cn/zt/tf/hyl/" target="_blank">火焰蓝一周年</a></li>
+              
+                <li> <a href="http://news.cyol.com/xwzt/node_67174.htm" target="_blank">第七届世界军人运动会</a></li>
+              
+                <li> <a href="http://news.youth.cn/zt/zsy/lhqjxsd/" target="_blank">领航强军新时代</a></li>
+              
+              
+        </ul> 
+        <!--右侧第一屏广告位240*218-->
+          <div class="youth-ggw gao_new">
+
+
+<script type="text/javascript" src="//pb1.qujishu.com/hcuidzebifjzb.js"></script></div> 
+        <!--右侧第一屏广告位240*218-->
+        <div     class="youth-nav">
+        <ul class="nav-name">
+         <li class="blue"><a href="//cunguan.youth.cn/" target="_blank">大学生村官</a></li>
+        </ul>
+        <div class="more"> <a href="//cunguan.youth.cn/" target="_blank"></a></div>
+    </div>
+        
+             <div class="hotpic_box2 floleft"> 
+                    <span>
+                         <a href='http://cunguan.youth.cn/ztzz2/qnfwz/' target="_blank">
+                       <img src="http://www.youth.cn/dxscg/pic/201901/W020190128404190359365.jpg" alt="乡村振兴青年服务站240x172.jpg" width='240' height='172' border='0'/>
+                     </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="http://cunguan.youth.cn/ztzz2/qnfwz/" target="_blank">中国乡村振兴青年服务站</a></font>
+              </div>
+            
+        <ul class="new-list">
+            
+              
+                <li><P> <a href="http://cunguan.youth.cn/cgxw/202001/t20200123_12176427.htm" target="_blank">轻施粉黛俏新颜</a></P></li>
+              
+              
+                <li> <a href="http://cunguan.youth.cn/cgxw/202001/t20200123_12176425.htm" target="_blank">搭上互联网快车，助力农产品营销</a></li>
+              
+                <li> <a href="http://cunguan.youth.cn/cgxw/202001/t20200123_12176423.htm" target="_blank">给农民朋友提个醒</a></li>
+              
+                <li> <a href="http://cunguan.youth.cn/cgxw/202001/t20200122_12175702.htm" target="_blank">科技小院把前沿技术播种在农田</a></li>
+              
+                <li> <a href="http://cunguan.youth.cn/cgxw/202001/t20200122_12175636.htm" target="_blank">农业农村数据采集体系2025年建成</a></li>
+              
+              
+        </ul> 
+        <div class="youth-nav">
+        <ul class="nav-name">
+         <li><a href="//sxx.youth.cn/" target="_blank"><span class="icon sanxx"></span>三下乡</a></li>
+        </ul>
+        <div class="more"> <a href="//sxx.youth.cn/" target="_blank"></a></div>
+    </div>      
+        <ul class="new-list">
+           
+              
+                <li><P> <a href="//sxx.youth.cn/jxqc/sxxxw/202001/t20200123_12176603.htm" target="_blank">关注留守儿童</a></P></li>
+              
+              
+                <li> <a href="//sxx.youth.cn/jxqc/sxxxw/202001/t20200123_12176703.htm" target="_blank">魅力化学秀、实验进小学</a></li>
+              
+                <li> <a href="//sxx.youth.cn/jxqc/sxxxw/202001/t20200123_12176593.htm" target="_blank">唯真情与歌声不可辜负</a></li>
+              
+                <li> <a href="//sxx.youth.cn/jxqc/sxxxw/202001/t20200123_12176694.htm" target="_blank">一镇一街探手艺，非遗传承节节高</a></li>
+              
+                <li> <a href="//sxx.youth.cn/jxqc/sxxxw/202001/t20200123_12176616.htm" target="_blank">绘画查字典比赛，激发想象促成长</a></li>
+              
+              
+         
+        </ul>
+        <!--右侧第二屏广告位240*98-->
+            <div class="youth-ggw gao"><script type="text/javascript" src="//pb1.qujishu.com/jewkfbgdthlfgmk.js"></script></div>
+        <!--右侧第二屏广告位240*98-->
+    </div>
+    <!--第四屏通栏广告1000*85-->
+    <div class="youth-ggw gao">
+ <div class="youth_ggw5">
+                <ul>
+                     
+                         <li style="text-align:left;">
+                        <a href='http://news.youth.cn/zt/zsy/zl70n/?tdsourcetag=s_pcqq_aiomsg' target="_blank">
+                         <img src="http://www.youth.cn/ggw/dsp_ggw/dyt/201907/W020190903607496013301.jpg" alt="壮丽79年.jpg" width='350' height='100' border='0'/>    
+                        </a>  
+                         </li>
+         
+                   
+                   
+                          <li style="text-align:right;float:right">
+                               <a href='http://news.youth.cn/zt/fxbpyzn/?tdsourcetag=s_pcqq_aiomsg' target="_blank">
+                         <img src="http://www.youth.cn/ggw/dsp_ggw/drt/201907/W020190725410559675273.jpg" alt="再走长征路350-100.jpg" width='350' height='100' border='0'/>  
+                        </a>    
+                         </li>
+         
+                                                                                  
+                </ul>
+      </div>   
+<div class="youth_ggw6">
+                
+                     <a href='http://news.youth.cn/zt/2019zthd/' target="_blank">
+                         <img src="http://www.youth.cn/ggw/dsp_ggw/dst/201909/W020190918368258847692.jpg" alt="5个一百（240-100）.jpg" width='240' height='100' border='0'/>       
+                   </a>                             
+                   
+            
+
+            
+            </div>     
+
+</div>
+    <!--第四屏通栏广告1000*85-->
+    <div class="youth-left">
+        <!--20180612调整娱乐发现-->
+           <script>
+            function selectTag(showContent,sl,clj,cljxg){
+                for(i=1; j=document.getElementById(sl+i); i++){
+                    j.style.display = "none";
+                }
+                document.getElementById(showContent).style.display = "block";
+                for(i=1; j=document.getElementById(clj+i); i++){
+                    j.className="cljys";
+                }
+                document.getElementById(cljxg).className="cljysxz";
+            }
+          </script>
+
+
+        
+        <div class="left-copy floleft" style="height:493px;">
+            <div     class="youth-nav">
+        <ul class="nav-name">
+         <li class="blue"><a href="//tour.youth.cn/" target="_blank">旅游</a></li>
+        </ul>
+        <div class="more"> <a href="//tour.youth.cn/" target="_blank"></a></div>
+    </div>
+        
+             <div class="hotpic_box floleft"> 
+                    <span>
+                         <a href='http://tour.youth.cn/xw/202001/t20200123_12176393.htm' target="_blank">
+                        <img src="http://tour.youth.cn/xw/202001/W020200123327506415710.png" alt="QQ图片20200123090441.png" width='350' height='172' border='0'/>
+                       </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="http://tour.youth.cn/xw/202001/t20200123_12176393.htm" target="_blank">葫芦烙画迎新春</a></font>
+              </div>
+          
+         
+        <ul class="new-list">
+           
+              
+                <li><P> <a href="http://tour.youth.cn/xw/202001/t20200123_12176389.htm" target="_blank">年夜饭有了多种 "打开方式"</a></P></li>
+              
+              
+                <li> <a href="http://tour.youth.cn/xw/202001/t20200123_12176388.htm" target="_blank">从红火年货看中国市场消费潜力</a></li>
+              
+                <li> <a href="http://tour.youth.cn/xw/202001/t20200123_12176382.htm" target="_blank">吉林梅河口发展县域经济走出振兴新路</a></li>
+              
+                <li> <a href="http://tour.youth.cn/xw/202001/t20200123_12176386.htm" target="_blank">京张高铁北京北至太子城站再增4对高铁列车</a></li>
+              
+                
+        </ul>
+        <!--第五屏小广告位2  350*98-->  
+       <div class="youth-ggw gao">
+  
+          
+        <div class="jsArea_ad  floleft ">
+                  <div class="slidContrlDiv">
+                  
+                  </div>
+                  <div class="slidImgDiv_ad">
+                    <ul>
+                     
+                        <li>
+                             <a href='http://qnzs.youth.cn/zt/gywdqc/' target="_blank">
+                             <img src="http://www.youth.cn/ggw/lbad/201808/W020180904564760178662.jpg" alt="banner(1)(1).jpg" width='350' height='100' border='0'/>
+                           </a>
+                        </li>
+                        
+                    </ul>
+                  </div>
+       </div>
+       </div>
+       <!--第五屏小广告位2  350*98-->  
+        </div>
+        <div class="left-copy floleft">
+            <div class="youth-nav">
+        <ul class="nav-name">
+         <li class="blue"><a href="//youxi.youth.cn/" target="_blank">游戏</a></li>
+        </ul>
+        <div class="more"> <a href="//youxi.youth.cn/" target="_blank"></a></div>
+    </div>
+      
+             <div class="hotpic_box floleft"> 
+                    <span>
+                         <a href='http://youxi.youth.cn/yw/202001/t20200123_12176515.htm' target="_blank">
+                       <img src="http://www.youth.cn/yx/yxtp/202001/W020200123385561440682.jpg" alt="17234049360068236131.jpg" width='350' height='172' border='0'/>
+                     </a>
+                     </span>
+                    <div class="boxk"></div>
+                    <font><a href="http://youxi.youth.cn/yw/202001/t20200123_12176515.htm" target="_blank">《绝地求生》新地图卡拉金上线</a></font>
+              </div>
+          
+        <ul class="new-list">
+            
+              
+                <li><P> <a href="http://youxi.youth.cn/yw/202001/t20200123_12176537.htm" target="_blank">答疑APP不该成“兴趣杀手”</a></P></li>
+              
+              
+                <li> <a href="http://youxi.youth.cn/yw/202001/t20200123_12176522.htm" target="_blank">恺英网络发布2019业绩预告 全年亏损</a></li>
+              
+                <li> <a href="http://youxi.youth.cn/yw/202001/t20200123_12176526.htm" target="_blank">规模以上互联网企业去年业务收入增长21.4%</a></li>
+              
+                <li> <a href="http://youxi.youth.cn/yw/202001/t20200122_12175681.htm" target="_blank">“互联网+”激活非遗生命力</a></li>
+              
+             
+        </ul>
+           <!--第五屏小广告位  350*98-->  
+        <div class="youth-ggw gao">
+
+          
+            
+             <a href='http://zhijh.youth.cn/2015/1012/2326207.shtml' target="_blank">
+             <img src="http://www.youth.cn/ggw/xbgg/201708/W020170831673589565025.gif" alt="欢迎注册中国青年志愿者.gif" width='350' height='100' border='0'/>
+           </a>
+         
+        </div>
+       <!--第五屏小广告位  350*98-->
+        </div>
+        <!--20180612去除动漫-->
+    </div>
+    <div class="youth-right">
+    <div class="right-copy floleft">
+        <div     class="youth-nav">
+        <ul class="nav-name">
+         <li class="blue"><a href="//auto.youth.cn/" target="_blank">汽车</a></li>
+        </ul>
+        <div class="more"> <a href="//auto.youth.cn/" target="_blank"></a></div>
+    </div>
+        <div class="new-list">
+        <ul>
+            
+                <li> <a href="//auto.youth.cn/xw/202001/t20200123_12176461.htm" target="_blank">2020年春节假期小型客车免收通行费</a></li>
+            
+                <li> <a href="//auto.youth.cn/xw/202001/t20200123_12176457.htm" target="_blank">工信部再补充说明新能源汽车补贴问题</a></li>
+            
+                <li> <a href="//auto.youth.cn/xw/202001/t20200123_12176455.htm" target="_blank">2019年MPV市场下滑20%</a></li>
+            
+                <li> <a href="//auto.youth.cn/xw/202001/t20200123_12176452.htm" target="_blank">改装车炫又酷 交巡警：见一个罚一个</a></li>
+            
+                <li> <a href="//auto.youth.cn/xw/202001/t20200123_12176451.htm" target="_blank">2020年车险综合改革行至深水区</a></li>
+            
+                <li> <a href="//auto.youth.cn/xw/202001/t20200123_12176449.htm" target="_blank">设立防疲劳驾驶停车区很必要</a></li>
+              
+        </ul>
+    </div>
+    </div>
+    <!--20180612去除就业创业-->
+
+    <div class="right-copy floleft" id="qwdt" style="margin-top: 12px;">
+        <div     class="youth-nav" style="margin:0px 0px 10px 0px;">
+        <ul class="nav-name">
+         <li class="blue"><a href="javascript:">中国青年报  中国青年网</a></li>
+        </ul>
+    </div>
+        <ul class="qbqw_ul">
+   
+             <li class="qbqw_img_li" style="margin-top: 10px;"> 
+ <a href='https://mp.weixin.qq.com/s/x1wu9xfYG7b_M2UagDqP-w' target="_blank">
+             <img src="http://www.youth.cn/qwdt/pic/201909/W020190921610409249396.jpg" alt="WechatIMG1.jpg" class='qbqw_img'  width='115' height='65' border='0'/>
+           </a>
+              <p><a href="https://mp.weixin.qq.com/s/x1wu9xfYG7b_M2UagDqP-w" target="_blank">张坤：中国青年报社与中视实业集团联手催化融合质变</a></p>
+             </li>
+     
+
+
+    <li style="margin-top: 10px;">
+            <span class="qbqw_text"><a href="http://news.youth.cn/gn/201602/t20160215_7636633.htm" target="_blank">中国青年网新闻采访与线索征集公告</a></span>
+     </li>
+
+
+
+ <li>
+   <span class="qbqw_text"><a href="https://shareapp.cyol.com/cmsfile/cms_json/zqzx/Newspaper/2/2019-09-20/Content/nw.D110000zgqnb_20190920_5-01.html?t=43001?isshow=1&from=singlemessage&isappinstalled=0" target="_blank">“中国大学生自强之星”总结会举行</a></span>
+     </li>
+
+ <li>
+   <span class="qbqw_text"><a href="http://news.cyol.com/content/2019-05/29/content_18030532.htm" target="_blank">中国青年报社会责任报告(2018年度)</a></span>
+     </li>
+
+     
+     
+        </ul>
+          </div>
+</div>
+<div class="youth-ggw gao">
+<script type="text/javascript">
+     document.write('<a style="display:none!important" id="tanx-a-mm_34618856_4222645_29136679"></a>');
+     tanx_s = document.createElement("script");
+     tanx_s.type = "text/javascript";
+     tanx_s.charset = "gbk";
+     tanx_s.id = "tanx-s-mm_34618856_4222645_29136679";
+     tanx_s.async = true;
+     tanx_s.src = "https://p.tanx.com/ex?i=mm_34618856_4222645_29136679";
+     tanx_h = document.getElementsByTagName("head")[0];
+     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+</script>
+
+</div>
+
+</div>
+</div>
+<div class="cl"></div>
+
+<div class="youth-link"  style="margin:0px 0px;margin-bottom: 10px;"> 
+    <div class="youth-link-con">
+        <ul class="f_end">
+           <li>
+           <span style="margin: 0px 10px 57px 0px;">友情链接:</span>
+                    
+                       <a href="http://www.people.com.cn/" target="_blank">人民网</a>
+                   
+                       <a href="http://www.xinhuanet.com/" target="_blank">新华网</a>
+                   
+                       <a href="http://www.china.com.cn/" target="_blank">中国网</a>
+                   
+                       <a href="http://www.chinadaily.com.cn/hqzx/" target="_blank">中国日报网</a>
+                   
+                       <a href="http://www.cri.cn/" target="_blank">国际在线</a>
+                   
+                       <a href="http://www.cntv.cn/" target="_blank">央视网</a>
+                   
+                       <a href="http://www.ce.cn/" target="_blank">中国经济网</a>
+                   
+                       <a href="http://www.taiwan.cn/" target="_blank">中国台湾网</a>
+                   
+                       <a href="http://www.cnr.cn/" target="_blank">央广网</a>
+                   
+                       <a href="http://www.gmw.cn/" target="_blank">光明网</a>
+                   
+                       <a href="http://www.tibet.cn/" target="_blank">中国西藏网</a>
+                   
+                       <a href="http://www.chinanews.com/" target="_blank">中国新闻网</a>
+                   
+                       <a href="http://www.btime.com/" target="_blank">北京时间</a>
+                   
+                       <a href="http://www.k618.cn" target="_blank">未来网</a>
+                   
+                       <a href="http://www.ccdi.gov.cn/" target="_blank">中央纪委监察部网站</a>
+                   
+                       <a href="http://www.gov.cn/" target="_blank">中国政府网</a>
+                   
+                       <a href="http://www.scio.gov.cn/" target="_blank">国新办网</a>
+                   
+                       <a href="http://www.cac.gov.cn/" target="_blank">中国网信网</a>
+                   
+                       <a href="http://www.qstheory.cn/" target="_blank">求是网</a>
+                   
+                       <a href="http://www.tuanjiebao.com/" target="_blank">团结网</a>
+                   
+                       <a href="http://news.ifeng.com" target="_blank">凤凰网</a>
+                   
+                       <a href="http://www.wenming.cn/" target="_blank">中国文明网</a>
+                   
+                       <a href="http://www.xinhuanet.com/zgjx/index.htm" target="_blank">中国记协网</a>
+                   
+                       <a href="http://www.newjobs.com.cn" target="_blank">中国国家人才网</a>
+                   
+                       <a href="http://toutiao.com/" target="_blank">今日头条</a>
+                   
+                       <a href="http://news.uc.cn/" target="_blank">UC头条</a>
+                   
+                       <a href="http://www.cnpeople.com.cn/" target="_blank">中华儿女</a>
+                   
+                       <a href="http://www.jwview.com/" target="_blank">中新经纬</a>
+                   
+                       <a href="http://www.youth.cn/yqlj/" target="_blank">更多>></a>
+                   
+          </li>
+      
+       </ul>
+</div>
+</div>
+<style>
+
+.footerapp li p 
+{    width: 44px;
+
+}
+.footerline01,.footerline02{ width:2px; height: 120px; float: left; position: absolute; border-left: #e0e0e0 1px solid;}
+.footerline01{ left: 239px;
+top: 0px;}
+.footerline02{ left: 605px;
+top: 0px;}
+</style>
+<div class="youth-footer-div">
+<div class="youth-footer">
+    <div class="footercon">
+        <div class="footerline01"></div>
+        <div class="footerline02"></div>
+        <div class="footerlink">
+            <span>关于我们</span>
+            <ul>  
+            <li><a href="//zqb.cyol.com/" target="_blank">中国青年报</a></li>
+            <li><a href="//www.youth.cn/lxwm/" target="_blank">联系我们</a></li>
+           <li style="margin-top: 0px; width: 80%;"><a href=' //files.youth.cn/download/201910/P020191022614574474765.pdf'  target="_blank">品牌广告</a>
+<a href="https://mail.youth.cn/nsmail/index.php"  target="_blank"  style="padding-left: 17px">邮箱</a> <a href="//www.youth.cn/map/" target="_blank" style="padding-left: 20px;">网站地图</a></li>
+        </ul>
+        </div>
+        <div class="footerlink">
+            <span>更多链接</span>
+            <ul>
+            <li><a href="//www.12377.cn/" target="_blank">中国互联网举报中心</a></li>
+            <li><a href="//ysc.cyol.com/" target="_blank">印刷厂</a></li>
+            <li style="width: 100%; float: left;    margin-top: 0px;">请发送qnb至10658000 订阅中国青年手机报</li>
+
+        </ul>
+        </div>
+        
+<ul class="footerapp">
+            <li style="margin-right: 10px;position: relative;"><a href="#" target="_blank" class="foot_zgqnb_logo"> <img src="//news.youth.cn/images/20190921pc_qb_logo.png" /></a><P>中国<br/>青年报</P></li>
+            <li><a href="//kandian.youth.cn/" target="_blank"> <img src="//news.youth.cn/images/20190921pc_kd_logo.png" /></a><P>中青<br/>看点</P></li>
+            <li><a href="//txs.youth.cn/sxx/public/login" target="_blank"> <img src="//news.youth.cn/images/20190921pc_xy_logo.png" /></a><P>中青<br/>校园</P></li>
+            <li style="position: relative;"><a href="#" target="_blank" class="foot_qctt_logo"> <img src="//news.youth.cn/images/20190921pc_qctt_logo.png" /></a><P>青创<br/>头条</P></li>
+        </ul>
+    </div>
+    </div>
+<div class="youth-copyright">
+    <div class="footercon">
+    <ul class="youth-copyright01">
+        <li>京ICP备11020872号-17 </li>
+            <li><img src="./images/20190919anquan.gif" /> 京公网安备110105007246</li>
+            <li>信息网络传播视听节目许可证0105108号</li>
+            <li>24小时违法和不良信息举报电话：010-64098588</li>
+        </ul>
+        <div class="youth-copyright02">
+        <ul class="copyrightimg">   
+            <li>
+    <a id="___szfw_logo___" href="https://search.szfw.org/cert/l/CX20120620001566001626" target="_blank"><img src="https://search.szfw.org/cert.png?l=CX20120620001566001626" width="114" height="41" /></a>
+    
+
+  </li>
+            <li><a id="_pingansec_bottomimagesmall_brand" href="//si.trustutn.org/info?sn=843170921030479438650&amp;certType=1"><img src="https://v.trustutn.org/images/cert/brand_bottom_small.jpg" /></a></li>
+            </ul>
+            <script type="text/javascript">(function(){document.getElementById('___szfw_logo___').oncontextmenu = function(){return false;}})();</script><!--可信网站图片LOGO安装开始 <script src="//kxlogo.knet.cn/seallogo.dll?sn=e12050911010020690307708&size=0"></script> 可信网站图片LOGO安装结束-->
+        <p>共青团中央主办 中国青年报主管 中国青年网版权所有</p>
+        </div>
+    </div>
+    </div>
+</div>
+<div class="slideBar">
+    <ul>
+        <li id="zgqnb_ewm" style="    margin-left: 0px;">
+            <img class="zgqnb_ewm" src="//news.youth.cn/images/20190922zgqn_app.jpg" alt="" />
+        </li>
+        <li>
+            <a href="//qnzs.youth.cn/" target="_blank"><img src="./images/20170821zgqnwbar1.png" alt="" /></a>
+        </li>
+        <li>
+            <a href="//kandian.youth.cn" target="_blank"><img src="./images/20170821zgqnwbar2.png" alt="" /></a>
+        </li>
+      <li id="erbar_xy">
+          <img class="erbar_xy_1" src="./images/20180611zqxy.jpg" alt="" />
+        </li>
+        <li id="erbar">
+           <img class="erbar1" src="./images/20170821zgqnwerweima.png" alt="" />
+        </li>
+        <li id="back">
+            <img src="./images/20170821zgqnwback.png" alt="" />
+        </li>
+    </ul>
+</div>
+<script>
+$(window).scroll(function(){
+
+  var bottom_h=$("#qwdt").offset().top;
+ 
+  if($(window).scrollTop()>2700){
+ 
+ $(".slideBar").css("bottom","400px")
+}else 
+{
+$(".slideBar").css("bottom","89px")
+}
+
+});
+    $("#back").click(function(){
+        $('body,html').animate({scrollTop:0},800);
+        return false;
+    });
+</script>
+<!--20170113百度统计代码更换为https-->
+<script>
+var _hmt = _hmt || [];
+
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?969516094b342230ceaf065c844d82f3";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>404页面</title>
+<link rel="stylesheet" type="text/css" href="/public/css/c_NotFound_detail-01001.css"/>
+<link rel="stylesheet" type="text/css" href="/public/css/base.css"/>
+<script language="javascript" type="text/javascript">
+    function backHomeClick(){
+        var currentHost = window.location.host;
+        window.location.href = "http://" + currentHost;
+    }
+
+    var i = 5;
+    var intervalid;
+   intervalid = setInterval("fun()", 1000);
+    function fun() {
+        if (i == 0) {
+            var currentHost = window.location.host;
+            window.location.href = "http://" + currentHost;
+            clearInterval(intervalid);
+        }
+        document.getElementById("js_skipTime").innerHTML = i;
+        i--;
+    }
+</script>
+<style>
+
+
+
+</style>
+</head>
+
+<body>
+<div id="c_NotFound_detail-123456789" class="c_NotFound_detail-01001" >
+  <div class="e_box e_box-000 p_detailBox" >
+
+    <div class="e_box e_box-000 p_headBox" >
+      <div class="e_image e_image-000 p_img" >
+        <img src="/public/img/error_pc.png">  
+      </div>
+      <div class="e_box e_box-000 p_wordBox" >
+        <div class="e_title e_AssistName-001 p_service" >
+           <div class="font">
+               <i class="iconfont"></i>中企动力服务热线：
+           </div>
+        </div>
+        <div class="e_title e_AssistInfo-001 p_phone">
+           <div class="font">
+               <i class="iconfont"></i>400-660-5555
+           </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="e_box e_box-000 p_contentBox" >
+      <div class="e_box e_box-000 p_disableBox" >
+        <div class="e_title e_AssistName-001 p_AssistNameA">
+          <div class="font">
+            <i class="iconfont"></i>抱歉，这个页面打不开了
+          </div>
+        </div>
+        <div class="e_title e_AssistName-001 p_AssistNameB">
+          <div class="font">
+            <i class="iconfont"></i>无法执行您的请求，请稍后重试
+          </div>
+        </div>
+      </div>
+      
+      <div class="e_box e_box-000 p_textBox" >
+     <!--<div class="e_title e_AssistName-001 p_AssistNameC">
+          <div class="font">
+            <i class="iconfont"></i>这可能是因为：
+          </div>
+        </div>
+        <article class="e_Article e_summary-001 p_summary">
+          <p>1.您已输入的网址不正确，或您要找的网页可能已被更新或删除。</p>
+          <p>2.您访问的网站正在备案中，暂时禁止访问。</p>
+        </article>-->   
+        <article class="e_Article e_summary-001 p_summary">
+          <p>错误码：404</p>
+        </article>
+        <div class="e_box e_box-000 p_CommonBtnBox">
+            <div class="e_btn e_CommonIconBtn-001 p_CommonBtn p_ZQDL" >
+                <div><i class="iconfont"></i>中企动力服务热线：400-600-5555</div>
+              </div>
+          <div class="e_btn e_CommonIconBtn-001 p_CommonBtn p_BackBtnIndex" >
+            <div class="font" onclick="javascript :history.go(-1);"><i class="iconfont"></i>返回上一页</div>
+          </div>
+          <a class="e_btn e_CommonIconBtn-001 p_CommonBtn p_BackBtn" data-ename-="返回首页">
+            <div class="font" id="backHome" onclick="backHomeClick();">返回首页</div>
+          </a>
+          <div class="p_BackTip"><b id="js_skipTime">5</b>秒后自动为您返回到网站首页！</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="e_box e_box-000 p_bottomBox" >
+     <article class="e_Article e_summary-001 p_summaryA">
+       <p>据工信部电管［2010］64号文件，对未进行ICP备案或备案信息不完全的网站，进行强制关停。<br>
+                          中企动力作为此网站的运营商，有责任和义务免费协助网站所有者，核实相关信息及办理相关手续。
+       </p>
+       <p><span style="font-weight:bold">如果网站ICP备案信息已审核通过，如下原因导致页面被禁止访问：</span><br>
+       •网站服务已到期，中企动力已经停止对此网站进行运营服务。<br>
+       •网站正处于维护中，中企动力应网站所有者要求，暂时禁止访问。
+       </p>
+     </article>
+   </div> 
+  </div>
+</div>
+</body>
+</html>

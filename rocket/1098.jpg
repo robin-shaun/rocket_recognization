@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title></title>
+<link rel="stylesheet" href="//cdn.dragonstatic.com/parking/css/native.css" type="text/css" media="screen" />
+<script type="text/javascript" src="//cdn.dragonstatic.com/parking/js/track.js?v=190929"></script>
+<script type="text/javascript">var pageinfo = {ad:1};</script>
+<script type="text/javascript" src="//cdn.dragonstatic.com/parking/js/native.js?v=191226"></script>
+<!-- <script type="text/javascript" src="native.js?v=191001"></script> -->
+</head>
+<body>
+<div id='root'></div>
+</body>
+</html>
