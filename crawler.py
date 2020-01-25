@@ -3,7 +3,6 @@
 import re
 import sys
 import urllib
- 
 import requests
  
  
@@ -30,7 +29,8 @@ def down_pic(pic_urls):
     for i, pic_url in enumerate(pic_urls):
         try:
             pic = requests.get(pic_url, timeout=15)
-            string ='long-march5/'+str(i + 1) + '.jpg'
+
+            string ='long-march5/'+str(i + 1)
             with open(string, 'wb') as f:
                 f.write(pic.content)
                 print('成功下载第%s张图片: %s' % (str(i + 1), str(pic_url)))

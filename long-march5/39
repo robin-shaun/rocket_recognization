@@ -44,7 +44,7 @@ center{ line-height: 48px; color: #919191;}
 	<img alt="" style="margin: 0 auto 17px auto;" src="/cdn-cgi/image/protected.png" />
     <div id="content_rendered"></div>
 	<hr />
-	<center>client: 60.27.105.150, server: c63e082, time: 2020-01-25 21:59:58</center>
+	<center>client: 60.27.105.150, server: c63e082, time: 2020-01-25 23:57:50</center>
 </div>
 <script>
 void(function fuckie6(){if(location.hash && /MSIE 6/.test(navigator.userAgent) && !/jsl_sec/.test(location.href)){location.href = location.href.split('#')[0] + '&jsl_sec' + location.hash}})();
