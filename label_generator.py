@@ -5,25 +5,32 @@ import os
 img_num = 100
 name=''
 names=''
-directory = 'long-march5/'
+directory = 'data/src/1/'
 j=0
+num=0
 for i in range(100):
     name = directory+str(i+1)
     try:
         imgType = imghdr.what(name)
     except:
-        imgType = 'empty'
-    if imgType!='empty':
+        imgType = None
+    if imgType=='jpeg' or imgType == 'png':
         print(imgType)
-        newName = (i-j+1 + '.' + imgType)
+        num=i-j+1
+        newName = (directory+str(num) + '.' + imgType)
         os.rename(name,newName)
+        names = names+newName+','
     else:
-        print('the file is not a pic or is empty')
-        imgType = 'empty'
-        #os.remove(name)
-    names = names+newName+','
-names=names.split(',')[0:img_num]
+        print('the file is invalid')
+        #imgType = 'empty'
+        j=j+1
+        try:
+            os.remove(name)
+        except:
+            pass
+names=names.split(',')[0:num]
 #print(names)
-labels=np.zeros(100)
+labels=np.ones(num)
+labels = labels.astype(int)
 img_info = pd.Series(labels,names)
-img_info.to_csv('long-march5/labels.csv')
+#img_info.to_csv('long-march5/labels.csv')
