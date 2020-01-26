@@ -29,7 +29,7 @@ class My_DataSet(Dataset):
 
     def __getitem__(self, index):
         label = self.img_list[index].split("/")[-2]
-        img = np.array(Image.open(self.img_list[index]))
+        img = Image.open(self.img_list[index])
 
         if self.transform is not None:
             img = self.transform(img)
@@ -39,14 +39,17 @@ class My_DataSet(Dataset):
         return len(self.img_list)
 
 transform = transforms.Compose(
-    [transforms.ToTensor(),
-     transforms.Normalize((0.1307, ), (0.3081, ))]) # 这个归一化值是数据提供方给的
+    [transforms.Resize((640,480)),transforms.ToTensor()]) 
 
 # 这里可视化就没有进行 transform 操作
 #i=0
-for data, label in DataLoader(My_DataSet("data/processed/train/"), batch_size=1, shuffle=False):
+trainloader = DataLoader(My_DataSet("data/processed/train/",transform), batch_size=13, shuffle=True)
+'''
+for data, label in DataLoader(My_DataSet("data/processed/train/",transform), batch_size=4, shuffle=True):
     print(data[0].shape)
     img = data[0].numpy()
+    img = np.transpose(img, (1, 2, 0)) 
     plt.imshow(img)
     plt.show()
+'''
 #print(i)
