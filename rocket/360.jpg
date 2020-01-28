@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error>
-  <Code>NoSuchKey</Code>
-  <Message>The specified key does not exist.</Message>
-  <RequestId>5E2945BFE677A2373225B515</RequestId>
-  <HostId>goss2.vcg.com</HostId>
-  <Key>editorial/vcg/800/version23/VCG11386872748.jpg</Key>
-</Error>

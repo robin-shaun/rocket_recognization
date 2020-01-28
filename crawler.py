@@ -29,8 +29,7 @@ def down_pic(pic_urls):
     for i, pic_url in enumerate(pic_urls):
         try:
             pic = requests.get(pic_url, timeout=15)
-
-            string ='data/src/2/'+str(i + 1)
+            string ='data/src/9/'+str(i + 1)
             with open(string, 'wb') as f:
                 f.write(pic.content)
                 print('成功下载第%s张图片: %s' % (str(i + 1), str(pic_url)))
@@ -41,7 +40,7 @@ def down_pic(pic_urls):
  
  
 if __name__ == '__main__':
-    keyword = '长征二号'  # 关键词, 改为你想输入的词即可, 相当于在百度图片里搜索一样
+    keyword = '重型猎鹰'  # 关键词, 改为你想输入的词即可, 相当于在百度图片里搜索一样
     url_init_first = r'http://image.baidu.com/search/flip?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1497491098685_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&ctd=1497491098685%5E00_1519X735&word='
     url_init = url_init_first + urllib.parse.quote(keyword, safe='/')
     all_pic_urls = []

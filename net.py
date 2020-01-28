@@ -11,11 +11,17 @@ import os
 import matplotlib.pyplot as plt
 import shutil
 import torch.nn.functional as F
-EPOCH = 10
-BATCH_SIZE = 13
+plt.rcParams['font.sans-serif']=['SimHei']
+plt.rcParams['axes.unicode_minus'] = False
+EPOCH = 1000
+BATCH_SIZE = 1
 learning_rate = 0.001
-resnet18 = models.resnet18(pretrained=False,num_classes=2).cuda()
-optimzier = torch.optim.Adam(resnet18.parameters(),lr=learning_rate)
+resnet34 = models.resnet34(pretrained=True).cuda()
+#提取fc层中固定的参数
+fc_features = resnet34.fc.in_features
+#修改类别为9
+resnet34.fc = nn.Linear(fc_features, 10).cuda()
+optimzier = torch.optim.Adam(resnet34.parameters(),lr=learning_rate)
 loss_func = nn.CrossEntropyLoss().cuda()
 
 # 创建一个数据集类：继承 Dataset
@@ -47,8 +53,9 @@ transform = transforms.Compose(
 
 # 这里可视化就没有进行 transform 操作
 #i=0
-train_loader = DataLoader(My_DataSet("data/processed/train/",transform), batch_size=13, shuffle=True)
-valid_loader = DataLoader(My_DataSet("data/processed/train/",transform), batch_size=1, shuffle=True)
+train_loader = DataLoader(My_DataSet("data/processed/train/",transform), batch_size=BATCH_SIZE, shuffle=True)
+test_loader = DataLoader(My_DataSet("data/processed/train/",transform), batch_size=1, shuffle=True)
+labels = pd.read_csv('labels.csv')
 '''
 for data, label in DataLoader(My_DataSet("data/processed/train/",transform), batch_size=4, shuffle=True):
     print(data[0].shape)
@@ -61,7 +68,7 @@ for data, label in DataLoader(My_DataSet("data/processed/train/",transform), bat
 
 for epoch in range(EPOCH):
     for step, (b_x,b_y) in enumerate(train_loader):
-        output = resnet18(b_x.cuda())
+        output = resnet34(b_x.cuda())
         #print(output)
         #print(b_y)
         loss = loss_func(output,b_y.cuda())
@@ -69,11 +76,29 @@ for epoch in range(EPOCH):
         loss.backward()
         optimzier.step()
         print('Loss:', loss.item())
-        print(step)
-'''
+        #print(step)
+    print(output)
+    if(epoch % 50 ==0 and epoch!=0):
+        torch.save(resnet34,'resnet34_rocket'+str(epoch)+'.pkl')
+        '''
+        for step, (b_x,b_y) in enumerate(test_loader):
+            img = b_x[0].numpy()
+            img = np.transpose(img, (1, 2, 0)) 
+            plt.imshow(img)
+            output = resnet34(b_x.cuda())
+            print(output)
+            print(loss_func(output,b_y.cuda()))
+            pred_y = int(torch.Tensor.max(output,1)[1].data.cpu().numpy())
+            title = labels.loc[:,'class'][pred_y]
+            print(title)
+            plt.title('这是'+title)
+            plt.show()
+            '''
+''' 
         if step % 50 == 0: 
-            test_output, last_layer = resnet18(test_x)
+            test_output, last_layer = resnet34(test_x)
             pred_y = torch.Tensor.max(test_output,1)[1].data.numpy()
             accuracy = float((pred_y == test_y.data.numpy()).astype(int).sum()) / float(test_y.size(0))
             print('Epoch: ', epoch, '| train loss: %.4f' % loss.data.numpy(), '| test accuracy: %.2f' % accuracy)
 '''
+    
