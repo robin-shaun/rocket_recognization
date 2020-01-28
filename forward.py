@@ -11,8 +11,9 @@ def net_foward(img):
     labels = pd.read_csv('labels.csv')
     loss_func = torch.nn.CrossEntropyLoss().cuda()
     img_tensor = transform(img)
+    img_tensor=img_tensor.unsqueeze(0)
     output = resnet34(img_tensor.cuda())
     pred_y = int(torch.Tensor.max(output,1)[1].data.cpu().numpy())
-    title = labels.loc[:,'class'][pred_y]
+    title = '这是'+labels.loc[:,'class'][pred_y]
     print(title)
     return title
