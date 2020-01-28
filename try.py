@@ -1,10 +1,14 @@
 import sys
-sys.path.remove('/opt/ros/kinetic/lib/python2.7/dist-packages')
-from PyQt5 import QtWidgets, QtCore, QtGui
+from PyQt5 import QtWidgets, QtCore, QtGui, QtMultimedia
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
+sys.path.remove('/opt/ros/kinetic/lib/python2.7/dist-packages')
 import cv2
+import text2speech
+from text2speech import Ws_Param
+
+
 class picture(QWidget):
     def __init__(self):
         super(picture, self).__init__()
@@ -66,7 +70,26 @@ class picture(QWidget):
 
 
 if __name__ == "__main__":
-    app = QtWidgets.QApplication(sys.argv)
+    format = QtMultimedia.QAudioFormat()
+    format.setChannelCount(2)
+    format.setSampleRate(8000)
+    format.setSampleSize(16)
+    format.setCodec("audio/pcm")
+    format.setByteOrder(QtMultimedia.QAudioFormat.LittleEndian)
+    format.setSampleType(QtMultimedia.QAudioFormat.UnSignedInt)
+    audio_output = QtMultimedia.QAudioOutput(format)
+    rfile = QFile()
+    app = QApplication(sys.argv)
     my = picture()
     my.show()
+    wsParam = Ws_Param(APPID='5e2faa83', APIKey='58c05763b09a8d85d9a2f5645f981824',
+                    APISecret='1d83a8338cc3e0188c880b9ab514770e',
+                    Text='给我看一张带有火箭的图片，我能告诉你这是什么火箭')
+    welcoming = "/home/robin/rocket_recognization/welcoming.pcm"
+    text2speech.tts(wsParam,welcoming)
+    rfile.setFileName(filename)
+    rfile.open(QIODevice.ReadOnly)
+    audio_output.start(rfile)
+
+    
     sys.exit(app.exec_())

@@ -104,7 +104,7 @@ def on_message(ws, message):
             #print("sid:%s call error:%s code is:%s" % (sid, errMsg, code))
         else:
 
-            with open('./tmp.pcm', 'ab') as f:
+            with open(filename, 'ab') as f:
                 f.write(audio)
 
     except Exception as e:
@@ -132,14 +132,16 @@ def on_open(ws):
         d = json.dumps(d)
         #print("------>开始发送文本数据")
         ws.send(d)
-        if os.path.exists('./tmp.pcm'):
-            os.remove('./tmp.pcm')
+        if os.path.exists(filename):
+            os.remove(filename)
 
     thread.start_new_thread(run, ())
 
-def tts(wsParam):
+def tts(wsParam,fileName):
     global wsparam
+    global filename
     wsparam=wsParam
+    filename=fileName
     websocket.enableTrace(False)
     wsUrl = wsParam.create_url()
     ws = websocket.WebSocketApp(wsUrl, on_message=on_message, on_error=on_error, on_close=on_close)
