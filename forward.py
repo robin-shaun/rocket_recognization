@@ -4,11 +4,11 @@ from rocketDataset import RocketDataSet
 from torchvision import transforms
 import numpy as np
 import pandas as pd
+resnet34=torch.load('resnet34_rocket100.pkl')
+transform = transforms.Compose([transforms.Resize((640,480)),transforms.ToTensor()]) 
+labels = pd.read_csv('labels.csv')
 
 def net_foward(img):
-    resnet34=torch.load('resnet34_rocket100.pkl')
-    transform = transforms.Compose([transforms.Resize((640,480)),transforms.ToTensor()]) 
-    labels = pd.read_csv('labels.csv')
     loss_func = torch.nn.CrossEntropyLoss().cuda()
     img_tensor = transform(img)
     img_tensor=img_tensor.unsqueeze(0)
