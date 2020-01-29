@@ -47,7 +47,7 @@ class Ws_Param(object):
         # 公共参数(common)
         self.CommonArgs = {"app_id": self.APPID}
         # 业务参数(business)，更多个性化参数可在官网查看
-        self.BusinessArgs = {"aue": "raw", "auf": "audio/L16;rate=16000", "vcn": "xiaoyan", "tte": "utf8","ent":"aisound"}
+        self.BusinessArgs = {"aue": "raw", "auf": "audio/L16;rate=16000", "vcn": "x_lele", "tte": "utf8","ent":"aisound"}
         self.Data = {"status": 2, "text": str(base64.b64encode(self.Text.encode('utf-8')), "UTF8")}
         #使用小语种须使用以下方式，此处的unicode指的是 utf16小端的编码方式，即"UTF-16LE"”
         #self.Data = {"status": 2, "text": str(base64.b64encode(self.Text.encode('utf-16')), "UTF8")}
@@ -152,7 +152,7 @@ if __name__ == "__main__":
     # 测试时候在此处正确填写相关信息即可运行
     wsParam = Ws_Param(APPID='5e2faa83', APIKey='58c05763b09a8d85d9a2f5645f981824',
                        APISecret='1d83a8338cc3e0188c880b9ab514770e',
-                       Text="这是一个语音合成示例")
-    tts(wsParam)
+                       Text="给我一张带有火箭的图片，我能告诉你这是什么火箭")
+    tts(wsParam,'welcoming.pcm')
 
 
