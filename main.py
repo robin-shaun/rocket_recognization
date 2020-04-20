@@ -3,7 +3,6 @@ from PyQt5 import QtWidgets, QtCore, QtGui, QtMultimedia
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
-sys.path.remove('/opt/ros/kinetic/lib/python2.7/dist-packages')
 import cv2
 import text2speech
 from text2speech import Ws_Param
